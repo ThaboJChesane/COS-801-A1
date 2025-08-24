@@ -1,0 +1,795 @@
+file,CNN_pred,CNN_conf,SVM_pred,SVM_conf,XGBoost_pred,XGBoost_conf
+0021e90e4.png,Small-flowered Cranesbill,0.6800304,Small-flowered Cranesbill,0.9637752529852615,Small-flowered Cranesbill,0.9955302
+003d61042.png,Fat Hen,0.60033953,Fat Hen,0.8410377443151753,Fat Hen,0.99810386
+007b3da8b.png,Cleavers,0.3081563,Sugar beet,0.8324747934074898,Sugar beet,0.9468407
+0086a6340.png,Common Chickweed,0.99130756,Common Chickweed,0.9906295912748122,Common Chickweed,0.99927443
+00c47e980.png,Sugar beet,0.67742723,Sugar beet,0.9142072995702166,Sugar beet,0.99555165
+00d090cde.png,Loose Silky-bent,0.49573824,Loose Silky-bent,0.8510716113673003,Loose Silky-bent,0.99600405
+00ef713a8.png,Common Chickweed,0.971383,Common Chickweed,0.9838212120305038,Common Chickweed,0.9987105
+01291174f.png,Fat Hen,0.89197326,Fat Hen,0.9744178761023534,Fat Hen,0.9994677
+026716f9b.png,Loose Silky-bent,0.43398592,Loose Silky-bent,0.7712573485045189,Loose Silky-bent,0.9439566
+02cfeb38d.png,Loose Silky-bent,0.58167785,Loose Silky-bent,0.9088715734890317,Loose Silky-bent,0.9963225
+03566743d.png,Maize,0.6952207,Fat Hen,0.8010547132173993,Fat Hen,0.893949
+03a2ee656.png,Small-flowered Cranesbill,0.87959486,Small-flowered Cranesbill,0.6343245329853565,Small-flowered Cranesbill,0.7944449
+03e322a29.png,Sugar beet,0.7168957,Sugar beet,0.9863940320311074,Sugar beet,0.998914
+03ef36742.png,Scentless Mayweed,0.36070088,Scentless Mayweed,0.8693126033435667,Scentless Mayweed,0.9967969
+043449b0b.png,Sugar beet,0.48537633,Sugar beet,0.9249620704785154,Sugar beet,0.9963446
+0437393b1.png,Fat Hen,0.7116474,Fat Hen,0.943173003294969,Fat Hen,0.9980533
+04814f36d.png,Small-flowered Cranesbill,0.3542883,Scentless Mayweed,0.5412470926787046,Scentless Mayweed,0.9832608
+05341a8a6.png,Scentless Mayweed,0.4046279,Scentless Mayweed,0.910686254183482,Scentless Mayweed,0.9990331
+060450d79.png,Common Chickweed,0.945861,Common Chickweed,0.9584813988080987,Common Chickweed,0.99824286
+060f1dc84.png,Charlock,0.47957814,Fat Hen,0.48474272332934926,Fat Hen,0.74382347
+0625f063b.png,Common Chickweed,0.94818234,Common Chickweed,0.9787587144444266,Common Chickweed,0.9989681
+063363305.png,Common Chickweed,0.44827056,Small-flowered Cranesbill,0.8707481911056578,Small-flowered Cranesbill,0.801207
+06d12f6fa.png,Small-flowered Cranesbill,0.85187244,Shepherds Purse,0.534081643646597,Shepherds Purse,0.96216065
+071cb3ece.png,Fat Hen,0.48908094,Fat Hen,0.851368520771818,Fat Hen,0.81081337
+0751c0bbc.png,Cleavers,0.5530029,Fat Hen,0.569193195071369,Fat Hen,0.7071822
+07e62f903.png,Small-flowered Cranesbill,0.5902366,Maize,0.48372714387280086,Charlock,0.5426854
+085974290.png,Small-flowered Cranesbill,0.29532358,Scentless Mayweed,0.5907552491637381,Scentless Mayweed,0.99617046
+0885e7690.png,Small-flowered Cranesbill,0.42021066,Shepherds Purse,0.699216719453853,Shepherds Purse,0.54578096
+089ad62a7.png,Common Chickweed,0.6419949,Common Chickweed,0.9698447427766612,Common Chickweed,0.9725618
+08d591441.png,Sugar beet,0.9489301,Sugar beet,0.9883700863951289,Sugar beet,0.9996456
+0911d3dee.png,Common Chickweed,0.9436276,Common Chickweed,0.9859428372486236,Common Chickweed,0.9989605
+099b961ec.png,Small-flowered Cranesbill,0.7624671,Shepherds Purse,0.7083917706948564,Shepherds Purse,0.6570256
+0a64e3e6c.png,Common wheat,0.6334556,Black-grass,0.5855427802208341,Black-grass,0.9707426
+0ad9e7dfb.png,Maize,0.7547084,Charlock,0.8400733702079485,Charlock,0.44397366
+0ae6668fa.png,Loose Silky-bent,0.69237125,Loose Silky-bent,0.9404696125043408,Loose Silky-bent,0.99915886
+0bf7bfb05.png,Common wheat,0.57189757,Black-grass,0.6235286596025787,Black-grass,0.98937744
+0c27cf05f.png,Common Chickweed,0.7520175,Loose Silky-bent,0.5446437011177603,Loose Silky-bent,0.58204025
+0c4199daa.png,Loose Silky-bent,0.65722746,Loose Silky-bent,0.9201928541336911,Loose Silky-bent,0.9980654
+0c45ace27.png,Common Chickweed,0.93990624,Common Chickweed,0.9635228148423897,Common Chickweed,0.9988859
+0c51bf229.png,Small-flowered Cranesbill,0.6065259,Maize,0.9899242809011956,Maize,0.9960729
+0c5f6c493.png,Common Chickweed,0.9183766,Common Chickweed,0.8987924265701001,Common Chickweed,0.9971783
+0caeda5df.png,Common wheat,0.97006404,Common wheat,0.8867503913798482,Common wheat,0.992278
+0d117d910.png,Small-flowered Cranesbill,0.6775564,Small-flowered Cranesbill,0.8173346030968659,Small-flowered Cranesbill,0.83212155
+0d31e6602.png,Common Chickweed,0.51136124,Small-flowered Cranesbill,0.9283346296567319,Small-flowered Cranesbill,0.9681327
+0dba99002.png,Sugar beet,0.9224853,Sugar beet,0.9737773954236282,Sugar beet,0.99740916
+0e8492cb1.png,Sugar beet,0.87985265,Sugar beet,0.9705972646884664,Sugar beet,0.9987204
+0ebf8f2f4.png,Small-flowered Cranesbill,0.8694199,Maize,0.9391327964915892,Maize,0.9643957
+0ee4ad224.png,Small-flowered Cranesbill,0.34904534,Shepherds Purse,0.8418231209723753,Shepherds Purse,0.49937588
+0f6cbe5e8.png,Maize,0.5310444,Maize,0.953575969995245,Maize,0.99121267
+0fb233ad6.png,Common Chickweed,0.5798629,Small-flowered Cranesbill,0.8383753066245375,Small-flowered Cranesbill,0.90037245
+115f93ecc.png,Loose Silky-bent,0.7172697,Loose Silky-bent,0.9564353913873769,Loose Silky-bent,0.9978987
+116b136de.png,Sugar beet,0.7512971,Sugar beet,0.9827851533703242,Sugar beet,0.99815387
+1191ba346.png,Cleavers,0.4665944,Cleavers,0.9054685296813277,Cleavers,0.9827487
+11d3f68ff.png,Loose Silky-bent,0.52010787,Loose Silky-bent,0.8554665666642851,Loose Silky-bent,0.99081224
+122913909.png,Small-flowered Cranesbill,0.71594536,Maize,0.971496810295756,Maize,0.97790796
+12625488b.png,Fat Hen,0.86875844,Fat Hen,0.9799055415132022,Fat Hen,0.99953806
+126a71ce0.png,Charlock,0.7705618,Charlock,0.81701325218549,Charlock,0.99345773
+1312065a5.png,Small-flowered Cranesbill,0.91116107,Small-flowered Cranesbill,0.9900764257874745,Small-flowered Cranesbill,0.99956375
+1364b297a.png,Cleavers,0.7780143,Cleavers,0.9604220206717384,Cleavers,0.9926252
+1376f3b63.png,Loose Silky-bent,0.5464827,Loose Silky-bent,0.8949568050239592,Loose Silky-bent,0.9132454
+13b9fa92d.png,Cleavers,0.36347815,Fat Hen,0.7048432437330918,Sugar beet,0.51380587
+1459e96a0.png,Cleavers,0.88059044,Cleavers,0.9818228567840741,Cleavers,0.99914503
+148bbda66.png,Charlock,0.8553428,Charlock,0.900629512588389,Charlock,0.98214275
+14bb43eee.png,Common wheat,0.9217385,Common wheat,0.9803610091559023,Common wheat,0.99865085
+1541bdb2e.png,Maize,0.44929615,Maize,0.9872947074147457,Maize,0.99528897
+1623fb9e1.png,Fat Hen,0.79769015,Fat Hen,0.9469165439087646,Fat Hen,0.99816966
+16357b436.png,Loose Silky-bent,0.54437524,Loose Silky-bent,0.7692200499724824,Black-grass,0.5039309
+16467a950.png,Loose Silky-bent,0.66477716,Loose Silky-bent,0.9487001853211411,Loose Silky-bent,0.9831282
+165681fd9.png,Charlock,0.41075268,Charlock,0.6366867142637228,Charlock,0.57526094
+1694a70e4.png,Small-flowered Cranesbill,0.27662313,Scentless Mayweed,0.797298527387447,Scentless Mayweed,0.9751532
+16fd2e01a.png,Small-flowered Cranesbill,0.82833385,Small-flowered Cranesbill,0.9599468567886928,Small-flowered Cranesbill,0.99925643
+172f9b10b.png,Common Chickweed,0.8045308,Common Chickweed,0.9654545728980441,Common Chickweed,0.9952631
+17529c555.png,Sugar beet,0.61629283,Scentless Mayweed,0.7799329321453373,Scentless Mayweed,0.873199
+1758a1baf.png,Common Chickweed,0.83836997,Common Chickweed,0.9848607600017383,Common Chickweed,0.99722916
+177d7e2a4.png,Common Chickweed,0.91630197,Common Chickweed,0.7949231240988474,Common Chickweed,0.9745796
+17a78fb44.png,Common wheat,0.83403707,Common wheat,0.6681214258511081,Common wheat,0.95775706
+17d5e5ac4.png,Loose Silky-bent,0.588839,Loose Silky-bent,0.8643982745080759,Loose Silky-bent,0.99389935
+1821eb11a.png,Small-flowered Cranesbill,0.36718747,Shepherds Purse,0.5879517148520405,Scentless Mayweed,0.9122688
+187668bde.png,Scentless Mayweed,0.5313885,Scentless Mayweed,0.946346819235935,Scentless Mayweed,0.9991165
+1926e82fd.png,Loose Silky-bent,0.7086221,Loose Silky-bent,0.9186993383756986,Loose Silky-bent,0.99278647
+19618ad6a.png,Sugar beet,0.8554119,Sugar beet,0.9228363307156632,Sugar beet,0.97956127
+19b51843a.png,Common Chickweed,0.9854453,Common Chickweed,0.9962560153336661,Common Chickweed,0.99945074
+19e58cc5e.png,Common Chickweed,0.91515285,Common Chickweed,0.9754505046593076,Common Chickweed,0.9990939
+19fdf19fb.png,Common wheat,0.9665372,Common wheat,0.9800626530773431,Common wheat,0.99932253
+1b490196c.png,Small-flowered Cranesbill,0.7960987,Shepherds Purse,0.6112629001795014,Shepherds Purse,0.9004664
+1b6a6494d.png,Common wheat,0.6959208,Fat Hen,0.48001848067237507,Sugar beet,0.90357715
+1be0713da.png,Cleavers,0.8365172,Cleavers,0.9748685366065476,Cleavers,0.9984854
+1bf9b94a6.png,Small-flowered Cranesbill,0.34543476,Scentless Mayweed,0.6332386081703372,Scentless Mayweed,0.9726696
+1c52ea820.png,Fat Hen,0.4283668,Fat Hen,0.7161878966518023,Fat Hen,0.979381
+1c680883c.png,Common wheat,0.5932124,Common wheat,0.7260800292280585,Common wheat,0.7554812
+1cfd91582.png,Charlock,0.9025106,Charlock,0.9667465769260729,Charlock,0.9985784
+1d0cbd819.png,Black-grass,0.36400512,Scentless Mayweed,0.5614953322732944,Scentless Mayweed,0.42580488
+1d321253f.png,Charlock,0.34808472,Fat Hen,0.6376448642698612,Fat Hen,0.94983786
+1d48b7564.png,Loose Silky-bent,0.32943544,Loose Silky-bent,0.6758665757585912,Loose Silky-bent,0.7822049
+1d56351b2.png,Common Chickweed,0.9161186,Common Chickweed,0.9727961812513469,Common Chickweed,0.9975304
+1dc7c45df.png,Loose Silky-bent,0.7423031,Loose Silky-bent,0.9386800011498233,Loose Silky-bent,0.9984596
+1e095a7e1.png,Common Chickweed,0.493885,Common Chickweed,0.636460242113884,Common Chickweed,0.8270432
+1f290e016.png,Small-flowered Cranesbill,0.30128077,Shepherds Purse,0.7435478332601534,Shepherds Purse,0.8170319
+1f3f44563.png,Small-flowered Cranesbill,0.857037,Maize,0.49340020087769937,Maize,0.78905064
+1f5e5554e.png,Small-flowered Cranesbill,0.54647833,Small-flowered Cranesbill,0.6266417681053564,Small-flowered Cranesbill,0.53500015
+1fefb54b7.png,Fat Hen,0.6899403,Fat Hen,0.9411000514144643,Fat Hen,0.9975775
+205df1df3.png,Fat Hen,0.56173104,Fat Hen,0.953845026418531,Fat Hen,0.99714285
+20817c846.png,Sugar beet,0.5145798,Scentless Mayweed,0.9113379702382675,Scentless Mayweed,0.9979367
+20e562fd5.png,Sugar beet,0.929786,Sugar beet,0.990527867211844,Sugar beet,0.99887043
+20ea96bcc.png,Fat Hen,0.47949237,Fat Hen,0.8291426563672993,Fat Hen,0.99388486
+20f983a71.png,Small-flowered Cranesbill,0.7034541,Fat Hen,0.6464711466285537,Fat Hen,0.94536954
+2126dc71b.png,Common Chickweed,0.9171801,Common Chickweed,0.8682585439719509,Common Chickweed,0.9786339
+219fd68d5.png,Small-flowered Cranesbill,0.50945026,Shepherds Purse,0.8669157706008679,Shepherds Purse,0.7492817
+223e4af09.png,Cleavers,0.55546534,Cleavers,0.878237004861052,Cleavers,0.99610364
+22e79540f.png,Charlock,0.84999746,Charlock,0.7625343339032066,Charlock,0.95818543
+22fbf13d6.png,Loose Silky-bent,0.56711274,Loose Silky-bent,0.8821157971488779,Loose Silky-bent,0.99469584
+239bdf640.png,Charlock,0.78221005,Charlock,0.931011879487951,Charlock,0.9891994
+23bc8ec4f.png,Common Chickweed,0.9535821,Common Chickweed,0.9960567150244818,Common Chickweed,0.9992005
+23e480e64.png,Small-flowered Cranesbill,0.52442175,Small-flowered Cranesbill,0.4155725808604365,Shepherds Purse,0.616016
+2406d6c99.png,Small-flowered Cranesbill,0.7989169,Shepherds Purse,0.48888959953147304,Shepherds Purse,0.9576323
+241e6935a.png,Common wheat,0.5166012,Sugar beet,0.8760024170975321,Sugar beet,0.9947148
+248436078.png,Charlock,0.5134707,Cleavers,0.89692347980103,Cleavers,0.98365873
+24a058589.png,Charlock,0.8305236,Charlock,0.8640457089882785,Charlock,0.979836
+24c94a6ca.png,Charlock,0.45279577,Sugar beet,0.6090681112770817,Fat Hen,0.5510425
+24d36c52c.png,Common Chickweed,0.5143932,Common Chickweed,0.5674352839815586,Common Chickweed,0.8852037
+24d78df74.png,Common Chickweed,0.93378067,Common Chickweed,0.8702005882083637,Common Chickweed,0.99524623
+24dbc3b21.png,Cleavers,0.4611373,Fat Hen,0.5030200830677353,Sugar beet,0.60397923
+258b1183c.png,Cleavers,0.87052053,Cleavers,0.9585871968567559,Cleavers,0.9993061
+25a4c427e.png,Black-grass,0.46538037,Loose Silky-bent,0.8846991680850426,Loose Silky-bent,0.9991436
+25cf6eb73.png,Small-flowered Cranesbill,0.94626164,Maize,0.43789795789513136,Charlock,0.7433589
+25fa8d109.png,Common wheat,0.94778687,Common wheat,0.9629148666439972,Common wheat,0.99849606
+26852751a.png,Charlock,0.7723865,Charlock,0.9430434950485936,Charlock,0.9831246
+2693e5c65.png,Maize,0.9556733,Maize,0.9764506005064063,Maize,0.9944178
+26e7ae885.png,Fat Hen,0.42990255,Fat Hen,0.8311655666442298,Fat Hen,0.99686265
+270b939cf.png,Common Chickweed,0.9700674,Common Chickweed,0.985336588695726,Common Chickweed,0.9979803
+279df95f2.png,Sugar beet,0.86690825,Sugar beet,0.9885559983254966,Sugar beet,0.9992205
+288564c76.png,Sugar beet,0.9285347,Sugar beet,0.9904283009024639,Sugar beet,0.99833554
+29bab7cad.png,Common Chickweed,0.8968752,Common Chickweed,0.9654559998215684,Common Chickweed,0.99850154
+29ce426a1.png,Common Chickweed,0.62510616,Common Chickweed,0.8344013407465518,Common Chickweed,0.7474204
+29f49cd0b.png,Fat Hen,0.67959446,Fat Hen,0.8893390720910065,Fat Hen,0.9985252
+2a5064f19.png,Common wheat,0.9960073,Common wheat,0.974090693138952,Common wheat,0.9989329
+2a667e099.png,Fat Hen,0.6817931,Fat Hen,0.947250211945502,Fat Hen,0.998099
+2b55a2da2.png,Charlock,0.77261406,Charlock,0.9834250278469696,Charlock,0.9987633
+2bd74d2da.png,Loose Silky-bent,0.5165203,Loose Silky-bent,0.8570171893379344,Loose Silky-bent,0.96841407
+2d5058a59.png,Common Chickweed,0.9343891,Common Chickweed,0.9664103342836554,Common Chickweed,0.99873155
+2d992d1fb.png,Loose Silky-bent,0.741279,Loose Silky-bent,0.9348741994295452,Loose Silky-bent,0.9987165
+2d9c798f9.png,Small-flowered Cranesbill,0.7036478,Small-flowered Cranesbill,0.9661846355188272,Small-flowered Cranesbill,0.99858224
+2dd5cfba9.png,Small-flowered Cranesbill,0.80269057,Shepherds Purse,0.9267949653196348,Shepherds Purse,0.99603903
+2df78338c.png,Common Chickweed,0.64942986,Common Chickweed,0.9659961275942245,Common Chickweed,0.99914885
+2e86f1085.png,Fat Hen,0.5339817,Fat Hen,0.8589063057033611,Fat Hen,0.9976259
+2ea664465.png,Sugar beet,0.83595604,Sugar beet,0.9740451333758766,Sugar beet,0.9977214
+2f0004a7f.png,Common wheat,0.9820141,Common wheat,0.9297223397073501,Common wheat,0.9991097
+2f246d688.png,Small-flowered Cranesbill,0.8587947,Small-flowered Cranesbill,0.957434206597721,Small-flowered Cranesbill,0.96494263
+2ff5cb348.png,Common wheat,0.4115432,Fat Hen,0.5728844878533604,Sugar beet,0.8855635
+30ad31220.png,Charlock,0.93518835,Charlock,0.9622505658685402,Charlock,0.99829763
+3185294c8.png,Sugar beet,0.3650191,Scentless Mayweed,0.9226162451609277,Scentless Mayweed,0.9947143
+31f3dd81f.png,Black-grass,0.4569519,Loose Silky-bent,0.8703537651468536,Loose Silky-bent,0.9691157
+31fcdc161.png,Maize,0.6127955,Maize,0.9692041975321151,Maize,0.99284405
+3281183f9.png,Common Chickweed,0.37536958,Scentless Mayweed,0.7797912734227678,Scentless Mayweed,0.9985815
+32a8c8a1d.png,Loose Silky-bent,0.74164844,Loose Silky-bent,0.9517709689392241,Loose Silky-bent,0.99887127
+32b42c120.png,Small-flowered Cranesbill,0.75085527,Small-flowered Cranesbill,0.9518025924010906,Small-flowered Cranesbill,0.9943323
+32c86784b.png,Common Chickweed,0.9926604,Common Chickweed,0.9959647464036695,Common Chickweed,0.99951875
+33317fc2a.png,Fat Hen,0.6860803,Fat Hen,0.9464988819573543,Fat Hen,0.9985037
+33448fe39.png,Loose Silky-bent,0.4721433,Loose Silky-bent,0.8429952730975597,Loose Silky-bent,0.99796945
+33748968f.png,Charlock,0.5031608,Cleavers,0.9486947665249897,Cleavers,0.9876188
+338c7e907.png,Maize,0.80718005,Maize,0.6953873534490141,Maize,0.9103432
+34dd57ca9.png,Black-grass,0.471137,Loose Silky-bent,0.8426413554881228,Loose Silky-bent,0.99719524
+3526b05cc.png,Sugar beet,0.5075186,Scentless Mayweed,0.9406324137975556,Scentless Mayweed,0.99886984
+35a90f8d0.png,Sugar beet,0.6436197,Scentless Mayweed,0.6767249036699017,Scentless Mayweed,0.9286461
+35cf9fa01.png,Small-flowered Cranesbill,0.33695558,Shepherds Purse,0.7841449966056198,Shepherds Purse,0.9532899
+35ebe165c.png,Black-grass,0.5139451,Black-grass,0.6355130987863099,Black-grass,0.71922547
+36839d5e9.png,Small-flowered Cranesbill,0.43312344,Scentless Mayweed,0.4815046674568785,Scentless Mayweed,0.9949515
+36d62bf36.png,Common wheat,0.99230385,Common wheat,0.9685550725509282,Common wheat,0.9988669
+36ed4f215.png,Common Chickweed,0.6138401,Common Chickweed,0.7663443973582926,Common Chickweed,0.8916781
+37297a64c.png,Common Chickweed,0.97344506,Common Chickweed,0.9802384731414155,Common Chickweed,0.99881905
+37714071b.png,Common Chickweed,0.5823289,Common Chickweed,0.46187293023794507,Shepherds Purse,0.81157875
+377283a21.png,Maize,0.9521798,Maize,0.9983213494486984,Maize,0.9992231
+37c3108d6.png,Small-flowered Cranesbill,0.7635213,Shepherds Purse,0.7228797463877684,Shepherds Purse,0.6029513
+37e545a60.png,Common Chickweed,0.84976333,Common Chickweed,0.969810339535242,Common Chickweed,0.9976744
+3827436f3.png,Common Chickweed,0.9748408,Common Chickweed,0.9921139660211474,Common Chickweed,0.9991472
+38c054379.png,Small-flowered Cranesbill,0.81807524,Small-flowered Cranesbill,0.9640737687461773,Small-flowered Cranesbill,0.98777837
+391dcd7fd.png,Black-grass,0.46618614,Black-grass,0.6569578253592949,Black-grass,0.9959727
+39858776a.png,Charlock,0.5170658,Cleavers,0.972973123076589,Cleavers,0.9982426
+39b740f7e.png,Black-grass,0.43721336,Loose Silky-bent,0.5916773193612789,Black-grass,0.67892617
+39c8fde99.png,Loose Silky-bent,0.48766986,Loose Silky-bent,0.8155996504264353,Loose Silky-bent,0.9919518
+39d569be4.png,Loose Silky-bent,0.71928954,Loose Silky-bent,0.9262487593358313,Loose Silky-bent,0.99726
+3a909ead8.png,Small-flowered Cranesbill,0.7748133,Small-flowered Cranesbill,0.9917992407646448,Small-flowered Cranesbill,0.99955064
+3abb502fb.png,Loose Silky-bent,0.4490472,Loose Silky-bent,0.7950800071816307,Loose Silky-bent,0.97485435
+3b73c3b61.png,Black-grass,0.34993777,Black-grass,0.3858713588552908,Black-grass,0.8097929
+3bbef3ecb.png,Sugar beet,0.45593718,Sugar beet,0.539362466066586,Scentless Mayweed,0.64889205
+3d38a87bc.png,Cleavers,0.6128222,Fat Hen,0.2056114140173032,Loose Silky-bent,0.7566005
+3d65168c2.png,Common Chickweed,0.9520483,Common Chickweed,0.9814120655910805,Common Chickweed,0.9993375
+3d67c434b.png,Small-flowered Cranesbill,0.319017,Fat Hen,0.9312898289472695,Fat Hen,0.9982003
+3da774107.png,Fat Hen,0.7883759,Fat Hen,0.9689796289930064,Fat Hen,0.9938403
+3dd52bd2a.png,Common Chickweed,0.55443364,Small-flowered Cranesbill,0.645656433540847,Small-flowered Cranesbill,0.9063039
+3e9f41817.png,Loose Silky-bent,0.66252387,Loose Silky-bent,0.9380071703324607,Loose Silky-bent,0.9983942
+3ebbe9ca4.png,Charlock,0.7717352,Charlock,0.9910981559852204,Charlock,0.9975889
+3eda9cbb6.png,Sugar beet,0.31516835,Scentless Mayweed,0.7465847065534719,Scentless Mayweed,0.99852103
+3edf5e9ef.png,Common wheat,0.35557795,Black-grass,0.3456748750565568,Black-grass,0.812478
+3eebd36c6.png,Charlock,0.95370835,Charlock,0.9502028137188833,Charlock,0.997445
+3efa1f66c.png,Loose Silky-bent,0.43642572,Loose Silky-bent,0.7921052975669765,Loose Silky-bent,0.50331515
+3f64c2c1b.png,Common wheat,0.99331427,Common wheat,0.9696036378251016,Common wheat,0.9991472
+3f826b318.png,Common Chickweed,0.9454867,Common Chickweed,0.9552267199140977,Common Chickweed,0.99831796
+3f92d8039.png,Black-grass,0.4841119,Loose Silky-bent,0.7658525644353876,Loose Silky-bent,0.986326
+3fbd0fc6a.png,Small-flowered Cranesbill,0.52294385,Small-flowered Cranesbill,0.8847020297555321,Small-flowered Cranesbill,0.8726475
+3fbf1a417.png,Cleavers,0.9601349,Cleavers,0.9933587590405742,Cleavers,0.9995733
+4049a6ea6.png,Loose Silky-bent,0.684411,Loose Silky-bent,0.9397969795535327,Loose Silky-bent,0.9970197
+406162ef9.png,Charlock,0.60599315,Charlock,0.9283442930292782,Charlock,0.988777
+406ecb5c5.png,Charlock,0.9647624,Charlock,0.9838865058922386,Charlock,0.9991898
+410e6f702.png,Small-flowered Cranesbill,0.67137384,Small-flowered Cranesbill,0.6313291344071918,Small-flowered Cranesbill,0.7828162
+41e07778c.png,Charlock,0.58962864,Cleavers,0.46573681122201643,Fat Hen,0.60453546
+41f1c3cdb.png,Fat Hen,0.58822477,Fat Hen,0.8943739160437096,Fat Hen,0.9954026
+4287d810c.png,Common Chickweed,0.89298874,Common Chickweed,0.9819568877487446,Common Chickweed,0.9979413
+429211ee6.png,Fat Hen,0.7214592,Fat Hen,0.8871592287511305,Fat Hen,0.9978029
+42e7ed442.png,Small-flowered Cranesbill,0.8759168,Small-flowered Cranesbill,0.6704058611654868,Shepherds Purse,0.855515
+4392d93cf.png,Fat Hen,0.8184792,Fat Hen,0.961077652390081,Fat Hen,0.9993556
+43ede9de9.png,Charlock,0.8122369,Charlock,0.9580917079821027,Charlock,0.99510634
+444473900.png,Common wheat,0.62157893,Fat Hen,0.4674662951354507,Fat Hen,0.5936308
+446f7da01.png,Common wheat,0.27759418,Sugar beet,0.37535980125707924,Black-grass,0.33726642
+44e8b8833.png,Small-flowered Cranesbill,0.8127692,Small-flowered Cranesbill,0.9862171052094496,Small-flowered Cranesbill,0.99966335
+456d507c0.png,Cleavers,0.6282983,Cleavers,0.9663011083646404,Cleavers,0.99542433
+466bb6d3b.png,Small-flowered Cranesbill,0.71042,Maize,0.9197716124521853,Maize,0.8704123
+46c14fde2.png,Black-grass,0.49479613,Loose Silky-bent,0.7815937224159544,Loose Silky-bent,0.9031789
+47b7d8e17.png,Small-flowered Cranesbill,0.7973958,Small-flowered Cranesbill,0.9479371950536024,Small-flowered Cranesbill,0.9982127
+47f9e5d91.png,Common Chickweed,0.98426455,Common Chickweed,0.963095100928745,Common Chickweed,0.9991198
+48231e475.png,Sugar beet,0.3637803,Scentless Mayweed,0.8717838530428186,Scentless Mayweed,0.99244326
+4823c3ffa.png,Fat Hen,0.21289578,Loose Silky-bent,0.5718347523596905,Loose Silky-bent,0.46869534
+486e59179.png,Common Chickweed,0.85727495,Common Chickweed,0.9692371526015202,Common Chickweed,0.9971359
+48d97c645.png,Common Chickweed,0.6275846,Small-flowered Cranesbill,0.515878397859289,Small-flowered Cranesbill,0.61232466
+48ef6a2ff.png,Common wheat,0.7482466,Common wheat,0.53364728015259,Common wheat,0.49399126
+490c4f9c8.png,Common wheat,0.87126064,Common wheat,0.8247779761750957,Common wheat,0.9231157
+4a337a4a9.png,Fat Hen,0.6231059,Fat Hen,0.9592517013875581,Fat Hen,0.99798656
+4ac29bbf0.png,Common Chickweed,0.9842717,Common Chickweed,0.988806668185983,Common Chickweed,0.99894327
+4b032563b.png,Common Chickweed,0.7871202,Common Chickweed,0.9688972129490058,Common Chickweed,0.9986928
+4b155fb07.png,Maize,0.72794527,Charlock,0.6337369338771853,Charlock,0.66708446
+4bbf1f6ea.png,Small-flowered Cranesbill,0.83932066,Small-flowered Cranesbill,0.502929945729541,Small-flowered Cranesbill,0.60427594
+4bbfd1e05.png,Cleavers,0.60838246,Cleavers,0.9839337348256401,Cleavers,0.99881774
+4bcdaa5e2.png,Charlock,0.42710096,Charlock,0.36474787591715874,Shepherds Purse,0.47422817
+4c5ab9b68.png,Cleavers,0.58119595,Cleavers,0.9787451511693755,Cleavers,0.9966917
+4c7838de4.png,Common Chickweed,0.6874531,Common Chickweed,0.9927580184046845,Common Chickweed,0.99948263
+4c8005bbc.png,Common wheat,0.5981536,Black-grass,0.6406603657068003,Black-grass,0.99215287
+4e1190d78.png,Common wheat,0.43400532,Black-grass,0.4810724988101796,Black-grass,0.960006
+4e18ab737.png,Cleavers,0.79757214,Cleavers,0.9848131971399032,Cleavers,0.9987282
+4e69d100a.png,Small-flowered Cranesbill,0.76368564,Small-flowered Cranesbill,0.9229705729373594,Small-flowered Cranesbill,0.99396473
+4e9d3765f.png,Charlock,0.9693144,Charlock,0.9290817587979135,Charlock,0.9989655
+4ea7493d5.png,Sugar beet,0.80263203,Sugar beet,0.9825048772675082,Sugar beet,0.99661094
+4f44ca525.png,Common Chickweed,0.888922,Common Chickweed,0.9753714332407676,Common Chickweed,0.9942299
+4f83143e1.png,Maize,0.9861715,Maize,0.9805617644359146,Maize,0.99398994
+502dff972.png,Small-flowered Cranesbill,0.918978,Small-flowered Cranesbill,0.9389891551711277,Small-flowered Cranesbill,0.98487884
+506347cfe.png,Small-flowered Cranesbill,0.45406237,Charlock,0.48522775101666304,Small-flowered Cranesbill,0.4565067
+50de8a115.png,Small-flowered Cranesbill,0.9260504,Small-flowered Cranesbill,0.40249332755003653,Shepherds Purse,0.46328408
+521b27a17.png,Loose Silky-bent,0.7111419,Loose Silky-bent,0.9545956566734394,Loose Silky-bent,0.99892634
+523e5505c.png,Fat Hen,0.41937497,Fat Hen,0.9159891114852168,Fat Hen,0.98437977
+5296835a0.png,Small-flowered Cranesbill,0.57354313,Small-flowered Cranesbill,0.8745818369869665,Small-flowered Cranesbill,0.9558515
+52a87abe5.png,Fat Hen,0.29950798,Fat Hen,0.5853213430254707,Fat Hen,0.92031926
+52dc7a4d6.png,Common Chickweed,0.94942546,Common Chickweed,0.9775922178721359,Common Chickweed,0.99895525
+5315c2dca.png,Loose Silky-bent,0.49607065,Loose Silky-bent,0.8614817666137581,Loose Silky-bent,0.9975974
+534e74d83.png,Common Chickweed,0.5635718,Maize,0.4477441052830895,Maize,0.6965426
+539961189.png,Common Chickweed,0.8750107,Common Chickweed,0.6944340482031767,Common Chickweed,0.93727213
+53ceb4657.png,Small-flowered Cranesbill,0.61125016,Common Chickweed,0.6419478186575166,Common Chickweed,0.8183908
+53e6e9000.png,Common wheat,0.96879756,Common wheat,0.9420784316628606,Common wheat,0.9978613
+54b3afd58.png,Cleavers,0.7816651,Cleavers,0.9580544361842541,Cleavers,0.99884063
+54c8bb900.png,Charlock,0.49951768,Charlock,0.6628800729149571,Charlock,0.97747064
+550a8b7e6.png,Small-flowered Cranesbill,0.5849083,Small-flowered Cranesbill,0.8261813797822276,Small-flowered Cranesbill,0.76770824
+55251925f.png,Common Chickweed,0.7987776,Common Chickweed,0.9263428040476139,Common Chickweed,0.9583386
+558aa7deb.png,Black-grass,0.5339844,Black-grass,0.490507999971673,Black-grass,0.98984057
+55920f07f.png,Maize,0.93693763,Maize,0.7815823236795197,Maize,0.99595624
+55a852f40.png,Common Chickweed,0.7975971,Common Chickweed,0.9659104974382461,Common Chickweed,0.9982803
+55fed435f.png,Charlock,0.5823415,Charlock,0.9716124062493112,Charlock,0.9946398
+56112b92c.png,Common Chickweed,0.76328945,Common Chickweed,0.8143907392895589,Common Chickweed,0.9920353
+56a01b835.png,Charlock,0.65582097,Cleavers,0.6729155690622328,Cleavers,0.8862695
+5779fe8b4.png,Fat Hen,0.6038306,Fat Hen,0.7393292487484775,Fat Hen,0.92067015
+5817b766d.png,Common Chickweed,0.81940526,Common Chickweed,0.8818846501007619,Common Chickweed,0.95022285
+5883b423d.png,Sugar beet,0.3287953,Scentless Mayweed,0.8880551292959675,Scentless Mayweed,0.9951953
+589e643b8.png,Small-flowered Cranesbill,0.7887031,Small-flowered Cranesbill,0.49798618965288494,Shepherds Purse,0.6972838
+590f5aea6.png,Charlock,0.64953226,Charlock,0.7211940551734604,Charlock,0.9073
+592473c83.png,Black-grass,0.4223257,Loose Silky-bent,0.5384130253991952,Black-grass,0.6578165
+592cc5b89.png,Loose Silky-bent,0.69412243,Loose Silky-bent,0.9386313551817804,Loose Silky-bent,0.9990232
+59358cd44.png,Small-flowered Cranesbill,0.7973476,Small-flowered Cranesbill,0.968730359199248,Small-flowered Cranesbill,0.99959975
+593896f83.png,Common Chickweed,0.9367715,Common Chickweed,0.9705165932368777,Common Chickweed,0.9952253
+599691cd9.png,Small-flowered Cranesbill,0.8613703,Small-flowered Cranesbill,0.9949602237946635,Small-flowered Cranesbill,0.99901414
+599c82eea.png,Common Chickweed,0.49599022,Scentless Mayweed,0.8380317934553553,Scentless Mayweed,0.999383
+59b2c6f2b.png,Common Chickweed,0.91172916,Common Chickweed,0.9576116279431405,Common Chickweed,0.99883956
+59c6a9f95.png,Maize,0.31750914,Common Chickweed,0.4730584766407562,Common Chickweed,0.58489823
+59e1cea8d.png,Cleavers,0.51757073,Cleavers,0.801211282029145,Cleavers,0.9578776
+59f62ad1d.png,Black-grass,0.5224777,Loose Silky-bent,0.7091652137763836,Loose Silky-bent,0.9525047
+5a38ac566.png,Loose Silky-bent,0.37679556,Loose Silky-bent,0.7720379282860473,Loose Silky-bent,0.67186034
+5a6bf96f6.png,Maize,0.958721,Charlock,0.27472524655394,Maize,0.9929223
+5af1d74ee.png,Sugar beet,0.47065148,Sugar beet,0.9400569687246315,Sugar beet,0.9707562
+5b3000b9a.png,Small-flowered Cranesbill,0.8439035,Maize,0.6956103336075768,Small-flowered Cranesbill,0.81377226
+5b3beec58.png,Loose Silky-bent,0.5181402,Loose Silky-bent,0.8711167702848366,Loose Silky-bent,0.9988701
+5b63dcc21.png,Common Chickweed,0.96597254,Common Chickweed,0.9610208068793572,Common Chickweed,0.99858785
+5bbc0a255.png,Common Chickweed,0.5699927,Common Chickweed,0.561331876327004,Common Chickweed,0.61741954
+5bc6595f6.png,Maize,0.6231711,Maize,0.7417109795831666,Maize,0.7170893
+5bd71f445.png,Common Chickweed,0.8499886,Common Chickweed,0.9775499248633702,Common Chickweed,0.9992212
+5bdcfa329.png,Loose Silky-bent,0.636018,Loose Silky-bent,0.8457484645111387,Loose Silky-bent,0.9950446
+5c3cd7ea2.png,Sugar beet,0.4543994,Scentless Mayweed,0.8036758802873838,Scentless Mayweed,0.94688195
+5ca0205f9.png,Charlock,0.91947,Charlock,0.9609428019038946,Charlock,0.998738
+5ca2687a4.png,Maize,0.9285938,Maize,0.9977537991996471,Maize,0.9986524
+5dcad9a53.png,Small-flowered Cranesbill,0.82242274,Small-flowered Cranesbill,0.9313374202522194,Small-flowered Cranesbill,0.99694365
+5e6a237f2.png,Sugar beet,0.9633925,Sugar beet,0.9937369129964312,Sugar beet,0.9995851
+5eb9c26a6.png,Common Chickweed,0.76376635,Loose Silky-bent,0.7521680006778952,Loose Silky-bent,0.91125774
+5ee9d0a5b.png,Loose Silky-bent,0.4749866,Loose Silky-bent,0.8069195500708003,Loose Silky-bent,0.49895138
+5f04aed97.png,Small-flowered Cranesbill,0.5303453,Small-flowered Cranesbill,0.8310021744662144,Small-flowered Cranesbill,0.94509333
+6049234e6.png,Cleavers,0.3647215,Fat Hen,0.8297106683900843,Fat Hen,0.9582405
+604dd663f.png,Small-flowered Cranesbill,0.49637866,Shepherds Purse,0.7828563291355183,Shepherds Purse,0.983631
+606647f64.png,Common Chickweed,0.9155783,Common Chickweed,0.9928056773778018,Common Chickweed,0.9993806
+60ee66ddd.png,Cleavers,0.94949484,Cleavers,0.9582345369297283,Cleavers,0.9971831
+60f0bc617.png,Small-flowered Cranesbill,0.9330491,Small-flowered Cranesbill,0.7481795862849059,Small-flowered Cranesbill,0.96231604
+60fea2ef6.png,Fat Hen,0.461135,Fat Hen,0.535021777827534,Sugar beet,0.54932904
+615d2b0a9.png,Cleavers,0.62239075,Fat Hen,0.5360664148397093,Sugar beet,0.88451093
+618de3d7a.png,Charlock,0.8279149,Charlock,0.944674859646934,Charlock,0.9968135
+61b044411.png,Common Chickweed,0.7784062,Scentless Mayweed,0.7963858651346943,Scentless Mayweed,0.9827712
+61dd2cdc5.png,Cleavers,0.8740956,Cleavers,0.9621594353789445,Cleavers,0.98359007
+632156793.png,Cleavers,0.5351555,Cleavers,0.8183578024405601,Cleavers,0.98033
+63c07d340.png,Charlock,0.4468854,Sugar beet,0.3204381813412319,Sugar beet,0.3564238
+647689543.png,Black-grass,0.56118095,Loose Silky-bent,0.8283635059901645,Loose Silky-bent,0.9977639
+64fe8beb9.png,Scentless Mayweed,0.36068687,Scentless Mayweed,0.9273800089007861,Scentless Mayweed,0.9974552
+653193c1a.png,Common wheat,0.94596165,Common wheat,0.8807527956537208,Common wheat,0.9984882
+65489944f.png,Small-flowered Cranesbill,0.8523088,Small-flowered Cranesbill,0.718230147458788,Small-flowered Cranesbill,0.75350267
+659412b1a.png,Loose Silky-bent,0.6573822,Loose Silky-bent,0.9545623167768416,Loose Silky-bent,0.9992687
+65d08b894.png,Sugar beet,0.41317138,Sugar beet,0.8473400219179119,Sugar beet,0.9456494
+65e262a6d.png,Charlock,0.8646767,Charlock,0.9775870836706249,Charlock,0.995672
+65e97117e.png,Loose Silky-bent,0.56726396,Loose Silky-bent,0.9362966548762527,Loose Silky-bent,0.9938152
+664194d19.png,Small-flowered Cranesbill,0.7814475,Small-flowered Cranesbill,0.9340453617772715,Small-flowered Cranesbill,0.98238325
+6680836dd.png,Sugar beet,0.5312968,Sugar beet,0.9508373629934633,Sugar beet,0.98568845
+668c1007c.png,Charlock,0.96429443,Charlock,0.9373649283854515,Charlock,0.99761283
+66ab0e8d0.png,Charlock,0.8402031,Charlock,0.926349207768169,Charlock,0.9894071
+675ec1b0b.png,Small-flowered Cranesbill,0.71043545,Small-flowered Cranesbill,0.9730201623250057,Small-flowered Cranesbill,0.99903727
+67ce3eaa6.png,Small-flowered Cranesbill,0.46731603,Small-flowered Cranesbill,0.64512647254053,Small-flowered Cranesbill,0.7953125
+67e185673.png,Small-flowered Cranesbill,0.741164,Small-flowered Cranesbill,0.9824477646931857,Small-flowered Cranesbill,0.99956447
+686dc7ec8.png,Common wheat,0.34768605,Black-grass,0.675409618546152,Fat Hen,0.6265124
+6908fb540.png,Sugar beet,0.734118,Sugar beet,0.9881611476700743,Sugar beet,0.99920434
+6982a9d30.png,Small-flowered Cranesbill,0.86278373,Small-flowered Cranesbill,0.9899277799455685,Small-flowered Cranesbill,0.99943703
+699d3c707.png,Sugar beet,0.9281201,Sugar beet,0.9935582940027435,Sugar beet,0.9995065
+69d1669f8.png,Charlock,0.57964694,Charlock,0.9894127281239404,Charlock,0.99451524
+6a41bf95b.png,Sugar beet,0.31067717,Scentless Mayweed,0.9001906643218767,Scentless Mayweed,0.9952042
+6a47821f9.png,Loose Silky-bent,0.58207065,Loose Silky-bent,0.8134320870512377,Loose Silky-bent,0.9772444
+6b721f68e.png,Black-grass,0.40769863,Loose Silky-bent,0.6049972297266847,Black-grass,0.87679505
+6b9d6f8c9.png,Sugar beet,0.9269427,Sugar beet,0.9930560336902959,Sugar beet,0.9987
+6ba4ef411.png,Cleavers,0.7951252,Cleavers,0.6899439969451581,Cleavers,0.7679463
+6bce55e05.png,Charlock,0.9583057,Charlock,0.9874566479693107,Charlock,0.9990637
+6be169e41.png,Small-flowered Cranesbill,0.7405329,Shepherds Purse,0.41415926913313045,Shepherds Purse,0.7396247
+6c874918c.png,Common wheat,0.65601975,Black-grass,0.6399685225727775,Black-grass,0.99186724
+6d6eb3830.png,Charlock,0.8046177,Charlock,0.6442926704273051,Charlock,0.9262906
+6da892be6.png,Small-flowered Cranesbill,0.94352794,Small-flowered Cranesbill,0.9836898017399379,Small-flowered Cranesbill,0.998696
+6db684fff.png,Common Chickweed,0.611736,Scentless Mayweed,0.7130526478558844,Scentless Mayweed,0.99712735
+6dd095129.png,Common Chickweed,0.99747825,Common Chickweed,0.9780434318951919,Common Chickweed,0.99924326
+6df8e31ea.png,Charlock,0.56300485,Charlock,0.4816934888353448,Cleavers,0.6647908
+6edb96d45.png,Cleavers,0.6550788,Cleavers,0.9436546413529583,Cleavers,0.9978928
+6edc76e7c.png,Fat Hen,0.4826958,Fat Hen,0.9422687855042378,Fat Hen,0.9966097
+711b46fba.png,Small-flowered Cranesbill,0.7812846,Shepherds Purse,0.8203393684828408,Shepherds Purse,0.99690056
+71334c634.png,Maize,0.8124018,Maize,0.9774534885002211,Maize,0.9955022
+71b232519.png,Fat Hen,0.43989214,Fat Hen,0.378280179792031,Fat Hen,0.59515274
+71e73a8a0.png,Sugar beet,0.64251155,Sugar beet,0.8804947501644433,Sugar beet,0.9810144
+71f5323c5.png,Common wheat,0.5420554,Black-grass,0.5132529104234381,Black-grass,0.9531573
+721b2c47a.png,Cleavers,0.43565515,Fat Hen,0.7260422321836567,Fat Hen,0.9589105
+721be0a4a.png,Black-grass,0.47599792,Loose Silky-bent,0.9159451044390357,Loose Silky-bent,0.9187262
+728eabae1.png,Charlock,0.9561822,Charlock,0.9739152540381347,Charlock,0.99667704
+73260a4ee.png,Fat Hen,0.40732798,Fat Hen,0.9469449037845467,Fat Hen,0.9929069
+74068643d.png,Loose Silky-bent,0.47830454,Loose Silky-bent,0.770565667270124,Loose Silky-bent,0.87273234
+74d810f87.png,Black-grass,0.471802,Loose Silky-bent,0.7960864730150228,Loose Silky-bent,0.83905184
+74fd477eb.png,Common Chickweed,0.59740734,Common Chickweed,0.8868988477154596,Common Chickweed,0.9524193
+7506c0c02.png,Small-flowered Cranesbill,0.2837737,Scentless Mayweed,0.7467106213843275,Scentless Mayweed,0.97278136
+752101fdf.png,Small-flowered Cranesbill,0.5581278,Small-flowered Cranesbill,0.4911283098128709,Small-flowered Cranesbill,0.62552255
+754b1adf8.png,Small-flowered Cranesbill,0.9158,Small-flowered Cranesbill,0.9956084686737664,Small-flowered Cranesbill,0.9996333
+756dd5070.png,Common Chickweed,0.7643604,Common Chickweed,0.8581566645371684,Common Chickweed,0.94242007
+75cb95e91.png,Charlock,0.78475225,Charlock,0.9239788970889034,Charlock,0.9963056
+7615e52d3.png,Charlock,0.7870896,Cleavers,0.7019989318281562,Cleavers,0.9484291
+76555b064.png,Loose Silky-bent,0.63445896,Loose Silky-bent,0.8997182199690206,Loose Silky-bent,0.9991418
+7691014a1.png,Small-flowered Cranesbill,0.9254518,Charlock,0.6321705456706781,Small-flowered Cranesbill,0.56361836
+7696badea.png,Common wheat,0.5208813,Black-grass,0.5026143141443713,Black-grass,0.9875646
+76dbd1054.png,Sugar beet,0.7943469,Scentless Mayweed,0.7442549456009172,Scentless Mayweed,0.7545495
+770a265f5.png,Common Chickweed,0.6073103,Common Chickweed,0.5768414869101965,Common Chickweed,0.90362245
+77ccb8b2a.png,Small-flowered Cranesbill,0.79228276,Small-flowered Cranesbill,0.8794629156989368,Small-flowered Cranesbill,0.9976593
+780bd2a2c.png,Sugar beet,0.8925559,Sugar beet,0.9762630817109494,Sugar beet,0.9959817
+780defa2e.png,Common Chickweed,0.92113024,Common Chickweed,0.9835837318269577,Common Chickweed,0.99858224
+785a73ab8.png,Common Chickweed,0.8273697,Common Chickweed,0.9817807955340069,Common Chickweed,0.99902344
+78750e0ff.png,Small-flowered Cranesbill,0.73363256,Maize,0.48690135630790493,Maize,0.58055794
+78b1bf91a.png,Sugar beet,0.6800351,Sugar beet,0.969387728975599,Sugar beet,0.9986181
+78c5fba1d.png,Sugar beet,0.8609269,Sugar beet,0.9753779398951605,Sugar beet,0.99522495
+79d93bc96.png,Black-grass,0.39299658,Loose Silky-bent,0.532181913086923,Black-grass,0.98612034
+79dafec17.png,Loose Silky-bent,0.7321035,Loose Silky-bent,0.9578624782030314,Loose Silky-bent,0.99916255
+79e5ea8fa.png,Common wheat,0.8403418,Common wheat,0.628065553035942,Common wheat,0.85883665
+79fba50db.png,Common Chickweed,0.9368825,Common Chickweed,0.9674158297547542,Common Chickweed,0.99770606
+7a38416be.png,Charlock,0.68752646,Charlock,0.7463576486091581,Charlock,0.9785483
+7b21ba6ba.png,Small-flowered Cranesbill,0.3088058,Fat Hen,0.7662655684518743,Fat Hen,0.8030144
+7b52585da.png,Black-grass,0.44839475,Loose Silky-bent,0.653035200225813,Loose Silky-bent,0.7488141
+7beb2766f.png,Small-flowered Cranesbill,0.37048548,Shepherds Purse,0.5578348096049858,Scentless Mayweed,0.94454765
+7c85b0265.png,Loose Silky-bent,0.48394358,Loose Silky-bent,0.8940637901643876,Loose Silky-bent,0.968864
+7cabd68cc.png,Loose Silky-bent,0.6818873,Loose Silky-bent,0.9211965105628879,Loose Silky-bent,0.9960354
+7d22abf91.png,Sugar beet,0.31733176,Sugar beet,0.4711583992294433,Scentless Mayweed,0.9514846
+7d3045fc3.png,Sugar beet,0.9494417,Sugar beet,0.9882697391467797,Sugar beet,0.9995363
+7d4cd07ad.png,Common Chickweed,0.9067122,Common Chickweed,0.9332240175608288,Common Chickweed,0.99658585
+7e9cf1c46.png,Small-flowered Cranesbill,0.49743852,Small-flowered Cranesbill,0.6938972659321384,Small-flowered Cranesbill,0.73218983
+7f31c7f42.png,Loose Silky-bent,0.53730375,Loose Silky-bent,0.8355796966992192,Loose Silky-bent,0.84814286
+7f46a71db.png,Sugar beet,0.793894,Sugar beet,0.9901693896552509,Sugar beet,0.9991517
+7f9e9565d.png,Sugar beet,0.44403,Scentless Mayweed,0.9289358339762137,Scentless Mayweed,0.998073
+7fdb7202d.png,Scentless Mayweed,0.44098035,Scentless Mayweed,0.868523164860527,Scentless Mayweed,0.996126
+800a8c17e.png,Fat Hen,0.7934601,Fat Hen,0.9630853575958205,Fat Hen,0.99919266
+808578ed5.png,Cleavers,0.32470384,Cleavers,0.44019358546046705,Charlock,0.42999014
+808cf55c6.png,Small-flowered Cranesbill,0.55914783,Charlock,0.5488507759012577,Charlock,0.5349266
+809eb0b82.png,Charlock,0.32731295,Charlock,0.29619797648855634,Charlock,0.47944683
+80e299ae9.png,Small-flowered Cranesbill,0.4064888,Charlock,0.6002913382935896,Charlock,0.9407643
+8104422bb.png,Common Chickweed,0.9069724,Common Chickweed,0.981048384421758,Common Chickweed,0.99860364
+8170d33c1.png,Common Chickweed,0.71421885,Maize,0.9712773076866313,Maize,0.9955961
+824f5d4e5.png,Sugar beet,0.9251548,Sugar beet,0.980747208806324,Sugar beet,0.9923228
+827279bad.png,Sugar beet,0.5748512,Sugar beet,0.9467777232400592,Sugar beet,0.9698882
+82b5f4d33.png,Small-flowered Cranesbill,0.65581775,Small-flowered Cranesbill,0.35575613597900796,Shepherds Purse,0.45396698
+8301b0547.png,Charlock,0.81097865,Charlock,0.7177727070985365,Charlock,0.83718985
+8303b27ed.png,Loose Silky-bent,0.6573196,Loose Silky-bent,0.8917237963906506,Loose Silky-bent,0.9980457
+8311740de.png,Fat Hen,0.5505213,Fat Hen,0.885783077049914,Fat Hen,0.96538967
+835dc5447.png,Common Chickweed,0.59978306,Small-flowered Cranesbill,0.8369592544100608,Small-flowered Cranesbill,0.9892699
+837ac0270.png,Sugar beet,0.33324048,Scentless Mayweed,0.753280993250845,Scentless Mayweed,0.9638684
+8455169fe.png,Common wheat,0.97556025,Common wheat,0.9541412264963159,Common wheat,0.9974082
+851c90831.png,Loose Silky-bent,0.46586326,Loose Silky-bent,0.8486011776771321,Loose Silky-bent,0.96715945
+85431c075.png,Loose Silky-bent,0.5513775,Loose Silky-bent,0.8504505407130314,Loose Silky-bent,0.993101
+855955aaf.png,Small-flowered Cranesbill,0.8916325,Small-flowered Cranesbill,0.9905078885242319,Small-flowered Cranesbill,0.99961275
+856f2910a.png,Small-flowered Cranesbill,0.8463453,Small-flowered Cranesbill,0.98836725267137,Small-flowered Cranesbill,0.99694556
+8585f9718.png,Black-grass,0.495879,Loose Silky-bent,0.6524489730302678,Black-grass,0.7315496
+862b8e7a0.png,Sugar beet,0.77882016,Sugar beet,0.9831118764829205,Sugar beet,0.99894506
+86676d627.png,Fat Hen,0.8100665,Fat Hen,0.9769914780188144,Fat Hen,0.99455196
+866be78b0.png,Small-flowered Cranesbill,0.563921,Common Chickweed,0.6064710817568401,Common Chickweed,0.6610682
+86c309150.png,Cleavers,0.578905,Sugar beet,0.31137460990111265,Fat Hen,0.51149917
+86f08e6d1.png,Fat Hen,0.62508196,Fat Hen,0.9673760152349586,Fat Hen,0.99919075
+87608f7aa.png,Small-flowered Cranesbill,0.87250507,Small-flowered Cranesbill,0.8149006813233006,Small-flowered Cranesbill,0.9357971
+87f627bf9.png,Common Chickweed,0.8834977,Common Chickweed,0.986466241414809,Common Chickweed,0.99699175
+8874bba69.png,Black-grass,0.49372458,Black-grass,0.5086541420175466,Loose Silky-bent,0.80550367
+88ac6df54.png,Loose Silky-bent,0.6552601,Loose Silky-bent,0.9465326295645324,Loose Silky-bent,0.94862914
+88d8a4508.png,Sugar beet,0.5707388,Sugar beet,0.9078297152459408,Sugar beet,0.7578944
+8916793ce.png,Small-flowered Cranesbill,0.82056725,Small-flowered Cranesbill,0.9703749240480237,Small-flowered Cranesbill,0.9986665
+892e9d6c6.png,Small-flowered Cranesbill,0.2961072,Scentless Mayweed,0.5680175238538188,Scentless Mayweed,0.9809847
+897e5a8de.png,Cleavers,0.71982944,Cleavers,0.9604033285213777,Cleavers,0.932794
+8a30b2de3.png,Sugar beet,0.8009693,Sugar beet,0.9193350441672224,Sugar beet,0.96915734
+8a32d0bfa.png,Common Chickweed,0.72034395,Common Chickweed,0.8776597473704804,Common Chickweed,0.9364493
+8a4d3a1b1.png,Loose Silky-bent,0.6314822,Loose Silky-bent,0.937034546142763,Loose Silky-bent,0.999421
+8a8d6c712.png,Cleavers,0.866157,Cleavers,0.9767357971002759,Cleavers,0.99889404
+8ab8a958b.png,Cleavers,0.48480785,Fat Hen,0.8723599515968263,Fat Hen,0.75907844
+8b043093d.png,Small-flowered Cranesbill,0.78566307,Small-flowered Cranesbill,0.9894895297398365,Small-flowered Cranesbill,0.9995869
+8b27bfd2b.png,Small-flowered Cranesbill,0.77987415,Small-flowered Cranesbill,0.9825979432954851,Small-flowered Cranesbill,0.9986022
+8b9144917.png,Small-flowered Cranesbill,0.5407465,Small-flowered Cranesbill,0.8568042849875064,Small-flowered Cranesbill,0.8129278
+8bc0261c9.png,Loose Silky-bent,0.6956623,Loose Silky-bent,0.9129858868549605,Loose Silky-bent,0.999549
+8c98a6e9b.png,Loose Silky-bent,0.45254657,Loose Silky-bent,0.731732596781845,Black-grass,0.8345189
+8c9953903.png,Fat Hen,0.5734723,Fat Hen,0.8862583508281109,Fat Hen,0.9966725
+8ca6140ca.png,Loose Silky-bent,0.37751624,Loose Silky-bent,0.734277425768957,Loose Silky-bent,0.9170729
+8cf2e3e6c.png,Common Chickweed,0.9952211,Common Chickweed,0.9875430216395459,Common Chickweed,0.999355
+8cf909eb3.png,Charlock,0.61487514,Charlock,0.9615803827437873,Charlock,0.99357504
+8cfd98117.png,Small-flowered Cranesbill,0.383385,Scentless Mayweed,0.49143336438411944,Scentless Mayweed,0.98747265
+8d6991365.png,Black-grass,0.48233014,Black-grass,0.7662879802786328,Black-grass,0.99019545
+8d6acbe9b.png,Common Chickweed,0.96789634,Common Chickweed,0.9703194612743631,Common Chickweed,0.9986254
+8db450ce3.png,Common Chickweed,0.9532446,Common Chickweed,0.9664303325315337,Common Chickweed,0.9988759
+8dbb8e1b9.png,Cleavers,0.5514835,Cleavers,0.7666229248618428,Cleavers,0.7345653
+8e29abce1.png,Small-flowered Cranesbill,0.4649567,Scentless Mayweed,0.3567428003238435,Scentless Mayweed,0.98555654
+8e2e5604e.png,Sugar beet,0.63829273,Sugar beet,0.9170078414641784,Sugar beet,0.915256
+8e3ed0a25.png,Small-flowered Cranesbill,0.9265646,Small-flowered Cranesbill,0.9928013104493962,Small-flowered Cranesbill,0.9994368
+8e4eaeec0.png,Common Chickweed,0.9502388,Common Chickweed,0.978771849945982,Common Chickweed,0.99869895
+8e6ec1ca6.png,Common Chickweed,0.59594166,Small-flowered Cranesbill,0.4870409357682671,Small-flowered Cranesbill,0.76009136
+8ece6efec.png,Common Chickweed,0.4140601,Scentless Mayweed,0.6272128081171742,Scentless Mayweed,0.9839055
+8f523520c.png,Small-flowered Cranesbill,0.7338104,Shepherds Purse,0.8724189040034593,Shepherds Purse,0.99227434
+8faadb6a8.png,Sugar beet,0.7536627,Sugar beet,0.9851409407348399,Sugar beet,0.9977132
+90b595f12.png,Common Chickweed,0.95147383,Common Chickweed,0.9760162255916477,Common Chickweed,0.9990595
+90d119d25.png,Common Chickweed,0.37765345,Scentless Mayweed,0.7163380853002826,Scentless Mayweed,0.9740019
+91e469b4a.png,Small-flowered Cranesbill,0.6961502,Small-flowered Cranesbill,0.6260140029858591,Small-flowered Cranesbill,0.9398282
+92292055d.png,Common Chickweed,0.6666066,Common Chickweed,0.9385516130515205,Common Chickweed,0.9975974
+93079d970.png,Sugar beet,0.37765652,Sugar beet,0.6511172528957241,Sugar beet,0.9168571
+9326bda1b.png,Common Chickweed,0.71960104,Common Chickweed,0.9411146976933488,Common Chickweed,0.96635276
+93d76fd5d.png,Small-flowered Cranesbill,0.85153216,Small-flowered Cranesbill,0.9877786776504957,Small-flowered Cranesbill,0.9996939
+948cdb277.png,Cleavers,0.7721925,Cleavers,0.9105162949360417,Cleavers,0.99262744
+9516e56c4.png,Black-grass,0.3952624,Black-grass,0.6984539465307877,Black-grass,0.9434719
+953496deb.png,Sugar beet,0.33334386,Sugar beet,0.6873227459188466,Sugar beet,0.6557317
+958bb9e96.png,Charlock,0.89623475,Charlock,0.9479096559774189,Charlock,0.9973014
+963544aa0.png,Black-grass,0.37827894,Loose Silky-bent,0.6890292689720938,Black-grass,0.60733443
+9643fc5f4.png,Charlock,0.9669816,Charlock,0.9566540546271387,Charlock,0.99919623
+966ae5ad9.png,Loose Silky-bent,0.5187508,Loose Silky-bent,0.7600201526423289,Loose Silky-bent,0.74952185
+969a851be.png,Small-flowered Cranesbill,0.3364566,Scentless Mayweed,0.614914547548106,Scentless Mayweed,0.9973935
+96ecad7a1.png,Small-flowered Cranesbill,0.80914325,Small-flowered Cranesbill,0.9733202122351057,Small-flowered Cranesbill,0.9987472
+96f14d90c.png,Sugar beet,0.47944462,Sugar beet,0.963774283824671,Sugar beet,0.9971015
+974959ec1.png,Common wheat,0.6263022,Fat Hen,0.6900086263304123,Common wheat,0.68671846
+976e4e079.png,Common Chickweed,0.9322893,Common Chickweed,0.9707507431847616,Common Chickweed,0.9989793
+97844bfd5.png,Small-flowered Cranesbill,0.40947816,Charlock,0.4091540152476239,Shepherds Purse,0.4120909
+97b2f0a10.png,Small-flowered Cranesbill,0.91135246,Small-flowered Cranesbill,0.9332566089822618,Small-flowered Cranesbill,0.97685677
+98062cd87.png,Small-flowered Cranesbill,0.70286804,Small-flowered Cranesbill,0.8796155209717135,Small-flowered Cranesbill,0.7844884
+98d819587.png,Small-flowered Cranesbill,0.7540623,Shepherds Purse,0.5450828633350565,Shepherds Purse,0.84647405
+98da6ef4e.png,Small-flowered Cranesbill,0.3454157,Scentless Mayweed,0.7579074561867651,Scentless Mayweed,0.9973973
+99036c51d.png,Loose Silky-bent,0.5057062,Loose Silky-bent,0.8755318110180479,Loose Silky-bent,0.99862254
+99569b224.png,Common wheat,0.97111475,Common wheat,0.9614127550804321,Common wheat,0.9989278
+995c7ab1e.png,Common wheat,0.48678154,Black-grass,0.3968543275682451,Fat Hen,0.50431406
+9a3f20121.png,Loose Silky-bent,0.5268921,Loose Silky-bent,0.8039036174940046,Loose Silky-bent,0.8515839
+9aa5587fe.png,Loose Silky-bent,0.5565878,Loose Silky-bent,0.8524693762188617,Loose Silky-bent,0.9958003
+9b4800b42.png,Charlock,0.51163924,Charlock,0.3465812137150996,Charlock,0.61163193
+9b9911f20.png,Sugar beet,0.30128306,Scentless Mayweed,0.8095666062132404,Scentless Mayweed,0.99268943
+9baf94467.png,Cleavers,0.45450443,Fat Hen,0.6717791813651329,Sugar beet,0.9325366
+9c0c5b731.png,Black-grass,0.5305123,Loose Silky-bent,0.8222053424240243,Loose Silky-bent,0.9913264
+9c32a797e.png,Common wheat,0.59275293,Cleavers,0.5860326010766724,Cleavers,0.724632
+9c777333d.png,Common Chickweed,0.6069872,Common Chickweed,0.9084792308420437,Common Chickweed,0.9967224
+9c8b08a24.png,Black-grass,0.4783403,Loose Silky-bent,0.8158352640299164,Loose Silky-bent,0.7813349
+9cce7328c.png,Loose Silky-bent,0.6426023,Loose Silky-bent,0.9123078531418478,Loose Silky-bent,0.9981407
+9d3cb4745.png,Common wheat,0.968021,Common wheat,0.9607240251782038,Common wheat,0.998939
+9d79a1f0c.png,Small-flowered Cranesbill,0.79456496,Small-flowered Cranesbill,0.8964071540345766,Small-flowered Cranesbill,0.9922333
+9df3275da.png,Small-flowered Cranesbill,0.46454814,Small-flowered Cranesbill,0.9520728325084372,Small-flowered Cranesbill,0.9866832
+9fab816f2.png,Common wheat,0.39754006,Fat Hen,0.6718641406796628,Fat Hen,0.98412305
+a006a475c.png,Common Chickweed,0.6788232,Common Chickweed,0.8335010327846534,Common Chickweed,0.98449254
+a060c1cf8.png,Small-flowered Cranesbill,0.5830413,Maize,0.9817753705543577,Maize,0.9926999
+a0b393945.png,Common Chickweed,0.71929127,Common Chickweed,0.5557119873721907,Common Chickweed,0.6186419
+a0f37c726.png,Small-flowered Cranesbill,0.6528123,Small-flowered Cranesbill,0.948716469567938,Small-flowered Cranesbill,0.99788195
+a169b71e7.png,Charlock,0.9564275,Charlock,0.9627601429623599,Charlock,0.99835664
+a19c3faca.png,Maize,0.27586433,Sugar beet,0.5299831092978198,Sugar beet,0.84499973
+a1da8be3c.png,Maize,0.5045537,Maize,0.97942981559787,Maize,0.99506676
+a1e0a6c02.png,Cleavers,0.74313205,Cleavers,0.9693275573081669,Cleavers,0.99403375
+a254d71f6.png,Black-grass,0.5815725,Loose Silky-bent,0.6693284248721044,Loose Silky-bent,0.59513134
+a276c65f7.png,Black-grass,0.48991814,Loose Silky-bent,0.9060801789141254,Loose Silky-bent,0.9815176
+a2b703e21.png,Common Chickweed,0.5143724,Small-flowered Cranesbill,0.8063048968954973,Small-flowered Cranesbill,0.7574809
+a2c89c367.png,Charlock,0.85959065,Charlock,0.7923179643171582,Charlock,0.5916427
+a2d25b4f3.png,Common Chickweed,0.69426775,Common Chickweed,0.8478210846578103,Common Chickweed,0.94649553
+a35fd6fbb.png,Common Chickweed,0.9649217,Common Chickweed,0.9941643091863129,Common Chickweed,0.9995479
+a38b8a581.png,Small-flowered Cranesbill,0.8435379,Small-flowered Cranesbill,0.991216041996068,Small-flowered Cranesbill,0.9996439
+a3b375b34.png,Loose Silky-bent,0.450908,Loose Silky-bent,0.8258198491818403,Loose Silky-bent,0.9903109
+a3d0031fd.png,Loose Silky-bent,0.6316418,Loose Silky-bent,0.9161952052234689,Loose Silky-bent,0.99839693
+a4b61a4ea.png,Black-grass,0.30410424,Scentless Mayweed,0.9142423860876467,Scentless Mayweed,0.9991616
+a544fc46d.png,Cleavers,0.27070794,Fat Hen,0.5737224436219214,Sugar beet,0.40611807
+a55d26a4c.png,Common Chickweed,0.98997265,Common Chickweed,0.9523902180366556,Common Chickweed,0.9988091
+a5db42f7d.png,Maize,0.61384124,Maize,0.9224392418079053,Maize,0.97751564
+a74bf916d.png,Small-flowered Cranesbill,0.7965147,Shepherds Purse,0.9623779184398153,Shepherds Purse,0.9936852
+a74d475c2.png,Common Chickweed,0.8049945,Common Chickweed,0.8634228453958657,Common Chickweed,0.9354734
+a7bd7cadb.png,Fat Hen,0.5952821,Fat Hen,0.8911981712859743,Fat Hen,0.99272835
+a800caead.png,Sugar beet,0.9664752,Sugar beet,0.9855121806908249,Sugar beet,0.9978236
+a83820a2c.png,Sugar beet,0.68963915,Sugar beet,0.9426366503247221,Sugar beet,0.9962823
+a8388a37f.png,Common wheat,0.4712161,Fat Hen,0.4910117914666148,Fat Hen,0.7049578
+a85b48a95.png,Scentless Mayweed,0.28690365,Scentless Mayweed,0.8312777966759347,Scentless Mayweed,0.99797505
+a85fc8c9a.png,Small-flowered Cranesbill,0.62609524,Small-flowered Cranesbill,0.7420035366361176,Small-flowered Cranesbill,0.8781172
+a890ac088.png,Charlock,0.8602647,Charlock,0.9582450266677269,Charlock,0.99570245
+a8b431a3e.png,Sugar beet,0.7746359,Sugar beet,0.9850194076842836,Sugar beet,0.9988298
+a8c8a1db0.png,Small-flowered Cranesbill,0.7962936,Shepherds Purse,0.6988423196617296,Shepherds Purse,0.81805784
+a8da9c08d.png,Charlock,0.44047186,Charlock,0.5642514883089164,Charlock,0.911385
+a8de7c1b7.png,Loose Silky-bent,0.67381436,Loose Silky-bent,0.8871277152793685,Loose Silky-bent,0.9988586
+a935ca110.png,Scentless Mayweed,0.27278516,Loose Silky-bent,0.724085890200807,Loose Silky-bent,0.97346413
+a93f940d6.png,Scentless Mayweed,0.4944319,Scentless Mayweed,0.9170408231886306,Scentless Mayweed,0.9990289
+a9d2eab61.png,Black-grass,0.40625584,Loose Silky-bent,0.4726233538210364,Black-grass,0.79341847
+aa7d098d1.png,Common Chickweed,0.95119476,Common Chickweed,0.9469745205898088,Common Chickweed,0.9988244
+aad8375e0.png,Charlock,0.5898003,Cleavers,0.5072485077832121,Charlock,0.64597243
+aaf4da98f.png,Sugar beet,0.5503766,Sugar beet,0.9542300676357764,Sugar beet,0.9968983
+ab0f67743.png,Common wheat,0.39150566,Black-grass,0.505249665458801,Black-grass,0.9554873
+ab35453cb.png,Cleavers,0.94778746,Cleavers,0.9811633143138315,Cleavers,0.9995473
+abc331628.png,Common wheat,0.92560047,Common wheat,0.8059459568208569,Common wheat,0.9981014
+abf8b0772.png,Scentless Mayweed,0.7753618,Scentless Mayweed,0.98154883443082,Scentless Mayweed,0.9995763
+ac3193f78.png,Common Chickweed,0.92768466,Common Chickweed,0.9816914093675163,Common Chickweed,0.998735
+ac75d3326.png,Loose Silky-bent,0.49876213,Loose Silky-bent,0.7830540380490569,Loose Silky-bent,0.8574764
+acdb75e00.png,Loose Silky-bent,0.4403826,Loose Silky-bent,0.7886629332674335,Loose Silky-bent,0.99072206
+ace8761dd.png,Common Chickweed,0.87098897,Common Chickweed,0.9930371969782477,Common Chickweed,0.99907124
+ad12382d4.png,Loose Silky-bent,0.47391897,Loose Silky-bent,0.8804410837755453,Loose Silky-bent,0.99644274
+adb7a032c.png,Loose Silky-bent,0.6707776,Loose Silky-bent,0.9015744135306205,Loose Silky-bent,0.9981845
+ae90f2827.png,Common Chickweed,0.92549634,Common Chickweed,0.972836697652017,Common Chickweed,0.9987128
+aecfaed64.png,Small-flowered Cranesbill,0.70340407,Small-flowered Cranesbill,0.47161451652251596,Shepherds Purse,0.60482585
+aee6fa3df.png,Loose Silky-bent,0.48184332,Loose Silky-bent,0.8318510839549641,Loose Silky-bent,0.9945939
+af45e222a.png,Small-flowered Cranesbill,0.49317434,Shepherds Purse,0.6048510056424633,Scentless Mayweed,0.79329526
+afa446484.png,Small-flowered Cranesbill,0.7216919,Fat Hen,0.6641575470609145,Fat Hen,0.5402283
+afcf6abd5.png,Common Chickweed,0.8598707,Common Chickweed,0.9754383562988767,Common Chickweed,0.99083906
+b026bf8ca.png,Loose Silky-bent,0.8258066,Loose Silky-bent,0.9631692843962989,Loose Silky-bent,0.9975394
+b03397525.png,Loose Silky-bent,0.4602547,Loose Silky-bent,0.8327593817325317,Loose Silky-bent,0.9433935
+b0acaff4a.png,Black-grass,0.5825191,Black-grass,0.8495091234710005,Black-grass,0.8898989
+b130a0632.png,Charlock,0.66365576,Cleavers,0.6156740256470784,Cleavers,0.95593774
+b145ba9d4.png,Sugar beet,0.23945038,Scentless Mayweed,0.6329415126620399,Scentless Mayweed,0.9918737
+b1cd2a91e.png,Cleavers,0.9659065,Cleavers,0.9917646177089352,Cleavers,0.9996505
+b215531dd.png,Charlock,0.70214564,Cleavers,0.8096652017137926,Cleavers,0.97373056
+b2706e2b3.png,Common wheat,0.6105155,Fat Hen,0.5126049838627936,Fat Hen,0.603313
+b29339405.png,Black-grass,0.4444216,Loose Silky-bent,0.7424635549066079,Loose Silky-bent,0.81427073
+b30ab4659.png,Cleavers,0.5309438,Cleavers,0.8983611162988802,Cleavers,0.9961559
+b31292706.png,Common Chickweed,0.93719345,Common Chickweed,0.9795108081692356,Common Chickweed,0.99784255
+b341d0aab.png,Common Chickweed,0.90765023,Common Chickweed,0.9628929437276759,Common Chickweed,0.9984162
+b39c71707.png,Small-flowered Cranesbill,0.49229184,Maize,0.9520314152446621,Maize,0.9321
+b3d6fdb80.png,Small-flowered Cranesbill,0.5179818,Shepherds Purse,0.36563631093179993,Shepherds Purse,0.6016308
+b3e08b037.png,Charlock,0.37212595,Fat Hen,0.9473662342562232,Fat Hen,0.98695207
+b47691c08.png,Sugar beet,0.4322161,Scentless Mayweed,0.4661762812244376,Scentless Mayweed,0.9931456
+b4c3df835.png,Maize,0.38634923,Maize,0.9012930748511848,Maize,0.9721448
+b4f7c9214.png,Black-grass,0.4515106,Loose Silky-bent,0.48078524075613027,Black-grass,0.98323524
+b573b7a56.png,Loose Silky-bent,0.64791703,Loose Silky-bent,0.941146917259985,Loose Silky-bent,0.99870193
+b5c7fd009.png,Loose Silky-bent,0.49416026,Loose Silky-bent,0.6671702106573535,Black-grass,0.7718086
+b62dca166.png,Fat Hen,0.7433293,Fat Hen,0.9417787539064,Fat Hen,0.99913496
+b687160f5.png,Small-flowered Cranesbill,0.4732372,Small-flowered Cranesbill,0.8975238721978791,Small-flowered Cranesbill,0.77027446
+b6a3f7876.png,Black-grass,0.53041595,Black-grass,0.5975585299517211,Black-grass,0.9770851
+b6f3d8b5d.png,Scentless Mayweed,0.24467325,Scentless Mayweed,0.8466292023062899,Scentless Mayweed,0.9986614
+b7192c70f.png,Common wheat,0.96587074,Common wheat,0.9320402154867031,Common wheat,0.99555945
+b7a7f6390.png,Fat Hen,0.7152594,Fat Hen,0.8806750505681594,Fat Hen,0.99757284
+b7ad92859.png,Small-flowered Cranesbill,0.8018648,Shepherds Purse,0.6327894945075426,Shepherds Purse,0.96075195
+b828443ff.png,Small-flowered Cranesbill,0.83000326,Maize,0.9296034557144804,Maize,0.9782164
+b9062c1c8.png,Sugar beet,0.84942317,Sugar beet,0.9753892011782838,Sugar beet,0.99949384
+b944a49ca.png,Common wheat,0.3139497,Loose Silky-bent,0.5606374764499141,Black-grass,0.59255046
+b98327bf4.png,Sugar beet,0.44479054,Scentless Mayweed,0.7781176191257805,Scentless Mayweed,0.94893134
+ba3ce6b3e.png,Scentless Mayweed,0.3154878,Scentless Mayweed,0.8479810496578097,Scentless Mayweed,0.9970298
+bb1c84bbc.png,Loose Silky-bent,0.42297846,Loose Silky-bent,0.718431448303442,Loose Silky-bent,0.7305288
+bb1d1bfd3.png,Charlock,0.9324066,Charlock,0.970803869310011,Charlock,0.99648714
+bb20fce02.png,Small-flowered Cranesbill,0.43758136,Scentless Mayweed,0.49175005500781854,Scentless Mayweed,0.9825318
+bb64660b7.png,Sugar beet,0.48023972,Sugar beet,0.9357367407594881,Sugar beet,0.9907267
+bb7621cb3.png,Fat Hen,0.6828306,Fat Hen,0.9512414234788186,Fat Hen,0.9985318
+bd72d4d8a.png,Common Chickweed,0.50240374,Common Chickweed,0.3829134914254505,Scentless Mayweed,0.7953607
+bd789d151.png,Common Chickweed,0.76583594,Common Chickweed,0.9367265377861766,Common Chickweed,0.98709315
+bdde957ec.png,Small-flowered Cranesbill,0.24866377,Scentless Mayweed,0.6918161188246811,Scentless Mayweed,0.9731607
+be2499cf4.png,Common wheat,0.8599266,Common wheat,0.4928975272014349,Black-grass,0.57686186
+be341dbdc.png,Loose Silky-bent,0.7072478,Loose Silky-bent,0.9249188261359347,Loose Silky-bent,0.99653435
+bea23d9f8.png,Small-flowered Cranesbill,0.46442455,Shepherds Purse,0.918993684117204,Shepherds Purse,0.9680771
+bebcaab66.png,Scentless Mayweed,0.45043984,Scentless Mayweed,0.9316885672156644,Scentless Mayweed,0.99945885
+beebe5f4e.png,Common Chickweed,0.24686575,Scentless Mayweed,0.8516044327535897,Scentless Mayweed,0.9995235
+bf3924a57.png,Common Chickweed,0.62263227,Common Chickweed,0.8412065878370472,Common Chickweed,0.90366477
+bf66b9cd2.png,Maize,0.87247366,Maize,0.9781861739286535,Maize,0.99865544
+bfab3e3d0.png,Sugar beet,0.3447634,Sugar beet,0.9154788262464225,Sugar beet,0.9845936
+bffc08672.png,Sugar beet,0.7040169,Sugar beet,0.7865283156410142,Sugar beet,0.9290893
+c0461776c.png,Common Chickweed,0.9496733,Common Chickweed,0.9720215434094706,Common Chickweed,0.99825877
+c069fc3fa.png,Fat Hen,0.7288755,Fat Hen,0.94607604719245,Fat Hen,0.9969505
+c06e7c748.png,Sugar beet,0.4866181,Scentless Mayweed,0.8189866945101135,Scentless Mayweed,0.9969554
+c0bc3997b.png,Sugar beet,0.48032495,Scentless Mayweed,0.8424037071565814,Scentless Mayweed,0.9843689
+c0d9e170b.png,Small-flowered Cranesbill,0.91199833,Small-flowered Cranesbill,0.9955176400674158,Small-flowered Cranesbill,0.9996125
+c0f5d9ac8.png,Common Chickweed,0.65706867,Common Chickweed,0.6056402501300268,Common Chickweed,0.85453874
+c10ccbd82.png,Small-flowered Cranesbill,0.5852051,Scentless Mayweed,0.3243611012600966,Scentless Mayweed,0.99121
+c10db7ae2.png,Common Chickweed,0.59173304,Maize,0.9623793078839252,Maize,0.9814144
+c1ecff98b.png,Loose Silky-bent,0.50874126,Loose Silky-bent,0.8801199588742376,Loose Silky-bent,0.9984848
+c26ccf73c.png,Common Chickweed,0.9067507,Common Chickweed,0.8377699375136531,Common Chickweed,0.98435414
+c2de6020a.png,Small-flowered Cranesbill,0.6436939,Small-flowered Cranesbill,0.8927073685460606,Small-flowered Cranesbill,0.99899536
+c35efa095.png,Sugar beet,0.50259405,Scentless Mayweed,0.9286456151725355,Scentless Mayweed,0.998884
+c4ed8ed38.png,Charlock,0.52838856,Charlock,0.9720507665860243,Charlock,0.9932526
+c50335991.png,Common wheat,0.8241455,Fat Hen,0.37432848161304677,Fat Hen,0.46478635
+c5078bac5.png,Loose Silky-bent,0.50061435,Loose Silky-bent,0.7073122577181142,Loose Silky-bent,0.7327136
+c5e419015.png,Sugar beet,0.26672825,Shepherds Purse,0.5202505917091419,Scentless Mayweed,0.83720905
+c5e88cd42.png,Common Chickweed,0.9744104,Common Chickweed,0.9909413905649741,Common Chickweed,0.9992238
+c60e91e07.png,Loose Silky-bent,0.68183064,Loose Silky-bent,0.9419912774655635,Loose Silky-bent,0.99930656
+c63da993b.png,Sugar beet,0.5928996,Sugar beet,0.8331492290562165,Sugar beet,0.88511974
+c64370a72.png,Sugar beet,0.93720895,Sugar beet,0.9870916291310328,Sugar beet,0.99867755
+c6b76307d.png,Cleavers,0.89133584,Cleavers,0.987465969797244,Cleavers,0.9996679
+c6c8d4ba0.png,Loose Silky-bent,0.5717088,Loose Silky-bent,0.8191857412922484,Loose Silky-bent,0.9929598
+c7051c902.png,Common Chickweed,0.9086229,Common Chickweed,0.9117609588473167,Common Chickweed,0.99606884
+c74c5b7fc.png,Small-flowered Cranesbill,0.5723229,Charlock,0.8982791286408763,Charlock,0.94159746
+c75a82234.png,Fat Hen,0.2208142,Scentless Mayweed,0.46337310768989476,Scentless Mayweed,0.9866044
+c7ae30f3a.png,Sugar beet,0.46025887,Scentless Mayweed,0.7965705502403073,Scentless Mayweed,0.9981171
+c7b07431e.png,Sugar beet,0.3752591,Scentless Mayweed,0.8913792763953593,Scentless Mayweed,0.9822534
+c7eb96871.png,Cleavers,0.5641732,Fat Hen,0.6679473291612588,Fat Hen,0.9306087
+c832e4302.png,Small-flowered Cranesbill,0.40092444,Fat Hen,0.9195797409210635,Fat Hen,0.98165923
+c85ef220d.png,Common Chickweed,0.9121525,Common Chickweed,0.9811017967878122,Common Chickweed,0.9988526
+c88ebfb47.png,Small-flowered Cranesbill,0.7202489,Small-flowered Cranesbill,0.9563472281171101,Small-flowered Cranesbill,0.9982187
+c8f50f0c3.png,Common wheat,0.9553191,Common wheat,0.91266207102518,Common wheat,0.9725115
+caa2fbd79.png,Common Chickweed,0.6690934,Common Chickweed,0.9421890050842312,Common Chickweed,0.9955309
+cadab6616.png,Small-flowered Cranesbill,0.7591358,Shepherds Purse,0.8248571651333872,Shepherds Purse,0.99012274
+cae684f8f.png,Charlock,0.8851252,Charlock,0.9062820203607564,Charlock,0.9651091
+cb496f36e.png,Loose Silky-bent,0.5636764,Loose Silky-bent,0.8826471289888026,Loose Silky-bent,0.9928843
+cb76a7766.png,Fat Hen,0.71411115,Fat Hen,0.9045289236411728,Fat Hen,0.9959424
+cbba27d89.png,Small-flowered Cranesbill,0.64946187,Maize,0.8609795896564876,Maize,0.98555017
+cbe761896.png,Charlock,0.82821685,Charlock,0.9662176007385854,Charlock,0.99560994
+cc3d2a59a.png,Sugar beet,0.42883703,Sugar beet,0.9546598841919038,Sugar beet,0.98910797
+cc74feadc.png,Black-grass,0.5609848,Black-grass,0.7716521720820784,Black-grass,0.96097505
+cd5f0db1c.png,Small-flowered Cranesbill,0.8568187,Small-flowered Cranesbill,0.6853292361479678,Small-flowered Cranesbill,0.9600502
+cd6adba97.png,Small-flowered Cranesbill,0.86743766,Small-flowered Cranesbill,0.9928067893244397,Small-flowered Cranesbill,0.99972874
+ce15eee52.png,Charlock,0.6382077,Charlock,0.9255720058260217,Charlock,0.9954352
+ce3d280eb.png,Common Chickweed,0.8677103,Common Chickweed,0.7374665134641167,Common Chickweed,0.9725705
+ce42adffb.png,Loose Silky-bent,0.47236314,Loose Silky-bent,0.8017878032853653,Loose Silky-bent,0.992343
+cec5bf198.png,Cleavers,0.34992543,Sugar beet,0.5197612880501493,Fat Hen,0.67192435
+cf3a8b2fd.png,Loose Silky-bent,0.560328,Loose Silky-bent,0.908436353249612,Loose Silky-bent,0.98289627
+cf46d09c5.png,Common Chickweed,0.97791153,Common Chickweed,0.9813547022748166,Common Chickweed,0.9985018
+cf90fc52d.png,Maize,0.8610153,Maize,0.9902346385323288,Maize,0.9978065
+cfb18d262.png,Small-flowered Cranesbill,0.42307144,Scentless Mayweed,0.3398085466364435,Scentless Mayweed,0.8913446
+cfd8165e9.png,Charlock,0.7913635,Charlock,0.9082957779696358,Charlock,0.998139
+d0152bd7c.png,Fat Hen,0.5659296,Fat Hen,0.6542863479964264,Fat Hen,0.98282707
+d01873fdd.png,Black-grass,0.46847105,Loose Silky-bent,0.606582028557912,Loose Silky-bent,0.74549353
+d09275360.png,Sugar beet,0.71318966,Sugar beet,0.9856389796531134,Sugar beet,0.9987394
+d09d24c58.png,Loose Silky-bent,0.6713629,Loose Silky-bent,0.9182477733598725,Loose Silky-bent,0.9979413
+d0cdc768f.png,Common wheat,0.98063415,Common wheat,0.8877654486362719,Common wheat,0.99911946
+d102e1a15.png,Cleavers,0.5217426,Cleavers,0.8801134944637957,Cleavers,0.99694663
+d14aa43f3.png,Small-flowered Cranesbill,0.8583965,Small-flowered Cranesbill,0.9816518445752415,Small-flowered Cranesbill,0.9987047
+d17f48d3b.png,Sugar beet,0.4185933,Scentless Mayweed,0.8068784146419132,Scentless Mayweed,0.99021065
+d2f0f326e.png,Fat Hen,0.470167,Fat Hen,0.7658382203155449,Fat Hen,0.98302543
+d2f422ccb.png,Common Chickweed,0.9193168,Common Chickweed,0.9888481766056006,Common Chickweed,0.9973563
+d2fd9df40.png,Black-grass,0.53344905,Loose Silky-bent,0.7310185819410326,Loose Silky-bent,0.9062503
+d3331e071.png,Fat Hen,0.8023374,Fat Hen,0.9587727386655999,Fat Hen,0.99862576
+d350a25fa.png,Common Chickweed,0.66081655,Common Chickweed,0.6032332448013781,Common Chickweed,0.698605
+d41d87796.png,Scentless Mayweed,0.4917419,Scentless Mayweed,0.9582456743522874,Scentless Mayweed,0.9988311
+d488a4fe1.png,Common wheat,0.91215134,Common wheat,0.8924869730645439,Common wheat,0.99774915
+d515398fd.png,Loose Silky-bent,0.50629115,Loose Silky-bent,0.7954290252279294,Black-grass,0.72103626
+d563be369.png,Fat Hen,0.78590906,Fat Hen,0.9594190270814932,Fat Hen,0.9993799
+d5f7dd60a.png,Common Chickweed,0.48692638,Scentless Mayweed,0.6672257579244182,Scentless Mayweed,0.9851307
+d668409ff.png,Black-grass,0.32388857,Black-grass,0.40707292319485544,Black-grass,0.45361593
+d689256be.png,Cleavers,0.73820525,Cleavers,0.9740688294210206,Cleavers,0.99467826
+d6c8c3c48.png,Small-flowered Cranesbill,0.85800457,Small-flowered Cranesbill,0.9910240078444115,Small-flowered Cranesbill,0.99944955
+d6d31dcbe.png,Common Chickweed,0.44259867,Scentless Mayweed,0.7696901543016463,Scentless Mayweed,0.9978696
+d6d80a321.png,Sugar beet,0.47636712,Scentless Mayweed,0.8739503037458967,Scentless Mayweed,0.95360583
+d7017f701.png,Fat Hen,0.55055314,Fat Hen,0.8486344001682563,Fat Hen,0.9734064
+d84d37a61.png,Common Chickweed,0.94758624,Common Chickweed,0.9832138173320907,Common Chickweed,0.9990281
+d89db156f.png,Small-flowered Cranesbill,0.70526356,Small-flowered Cranesbill,0.8951980949545854,Small-flowered Cranesbill,0.972234
+d8f4923f8.png,Common Chickweed,0.9511598,Common Chickweed,0.9953256125061327,Common Chickweed,0.9994259
+d93c7ab6d.png,Loose Silky-bent,0.7317525,Loose Silky-bent,0.9427748169814291,Loose Silky-bent,0.9986513
+d9c50616e.png,Sugar beet,0.40395045,Sugar beet,0.9538836497367748,Sugar beet,0.9880568
+da231c97f.png,Small-flowered Cranesbill,0.41804364,Common Chickweed,0.3459400617932083,Scentless Mayweed,0.51372683
+da4ed3a28.png,Charlock,0.960655,Charlock,0.9039257994444656,Charlock,0.99893314
+da5255450.png,Common Chickweed,0.9590035,Common Chickweed,0.9569125859164841,Common Chickweed,0.9983021
+da713c465.png,Loose Silky-bent,0.32713842,Loose Silky-bent,0.5814005091278531,Black-grass,0.7150406
+da9ef7858.png,Charlock,0.8715686,Charlock,0.9404668521523024,Charlock,0.99637246
+dabe3e5be.png,Small-flowered Cranesbill,0.84205735,Shepherds Purse,0.5357016469803317,Shepherds Purse,0.8935627
+dabea05f4.png,Loose Silky-bent,0.50452286,Loose Silky-bent,0.8601854536520448,Loose Silky-bent,0.98996544
+dc4cd56a3.png,Loose Silky-bent,0.4188401,Loose Silky-bent,0.7054431892930221,Black-grass,0.65663624
+dc55449b2.png,Sugar beet,0.8487958,Sugar beet,0.9899885044887682,Sugar beet,0.99869615
+dcd7ff249.png,Scentless Mayweed,0.22655092,Scentless Mayweed,0.5929924159159207,Scentless Mayweed,0.9922397
+dce2f6612.png,Common Chickweed,0.9500344,Common Chickweed,0.9947404177610649,Common Chickweed,0.9991271
+dd5ec63d9.png,Sugar beet,0.2938517,Sugar beet,0.7506614729171738,Sugar beet,0.9888264
+dd9f36df7.png,Common Chickweed,0.91966426,Common Chickweed,0.8200099208050672,Common Chickweed,0.9680319
+de0b79659.png,Fat Hen,0.59309566,Fat Hen,0.8685338810593553,Fat Hen,0.99137443
+df11d56a7.png,Charlock,0.35846865,Sugar beet,0.7177654266988153,Sugar beet,0.9682773
+df521c0c0.png,Loose Silky-bent,0.46603417,Loose Silky-bent,0.8801728686848068,Loose Silky-bent,0.97173744
+df7cb5f87.png,Common Chickweed,0.50003606,Common Chickweed,0.8910856891951512,Common Chickweed,0.9591456
+dfb1d9012.png,Cleavers,0.24973448,Loose Silky-bent,0.5162217471944417,Loose Silky-bent,0.9197676
+e0ec5b6a1.png,Sugar beet,0.3986415,Sugar beet,0.6283176040991264,Sugar beet,0.869966
+e14afa235.png,Common wheat,0.6508515,Common wheat,0.30111140897409205,Black-grass,0.5372387
+e15472085.png,Common Chickweed,0.6969507,Common Chickweed,0.9888150133027336,Common Chickweed,0.99699926
+e15fce4f2.png,Sugar beet,0.7549462,Scentless Mayweed,0.6717617629848479,Scentless Mayweed,0.9398925
+e1809cef2.png,Scentless Mayweed,0.25677657,Scentless Mayweed,0.8970094889776052,Scentless Mayweed,0.99786794
+e19673dc9.png,Charlock,0.69953597,Charlock,0.9659672090076928,Charlock,0.9990514
+e19ad6ac9.png,Charlock,0.6785223,Charlock,0.9434298253526298,Charlock,0.97486997
+e1a0e3202.png,Loose Silky-bent,0.5639801,Loose Silky-bent,0.8914369695871416,Loose Silky-bent,0.9957475
+e1abb4ff9.png,Sugar beet,0.9130663,Sugar beet,0.9844375877572357,Sugar beet,0.9957793
+e3f50adfc.png,Cleavers,0.94340557,Cleavers,0.9860283583863376,Cleavers,0.99847513
+e471f1d3a.png,Charlock,0.9703375,Charlock,0.963677302853999,Charlock,0.99879336
+e478c452c.png,Charlock,0.38288757,Sugar beet,0.4533277683553163,Sugar beet,0.9212469
+e4a76885b.png,Maize,0.6062921,Maize,0.9635470641009827,Maize,0.9913659
+e4d5ec761.png,Loose Silky-bent,0.42684776,Loose Silky-bent,0.7194052572019742,Loose Silky-bent,0.86262506
+e5064f6be.png,Sugar beet,0.36845332,Sugar beet,0.8832793222233473,Sugar beet,0.95931804
+e52493d0b.png,Common wheat,0.77432096,Common wheat,0.42380586280727645,Common wheat,0.7439204
+e5297b675.png,Loose Silky-bent,0.59003544,Loose Silky-bent,0.8639570652216402,Loose Silky-bent,0.9983796
+e5368474f.png,Common Chickweed,0.6580976,Scentless Mayweed,0.4301630050785108,Scentless Mayweed,0.77998483
+e5881dd33.png,Fat Hen,0.6551617,Fat Hen,0.9758330625956586,Fat Hen,0.9989316
+e5e3dccff.png,Common wheat,0.9920563,Common wheat,0.9668817915118764,Common wheat,0.99917775
+e6f1211a2.png,Sugar beet,0.77175784,Sugar beet,0.9804202731207493,Sugar beet,0.9984629
+e7077322d.png,Scentless Mayweed,0.33168724,Scentless Mayweed,0.8699242738687483,Scentless Mayweed,0.9983096
+e721c6ac8.png,Common wheat,0.39682233,Black-grass,0.505357162871544,Black-grass,0.9916521
+e73e308be.png,Common wheat,0.48387668,Fat Hen,0.4865946060514667,Fat Hen,0.91727746
+e783f5a4f.png,Sugar beet,0.96071726,Sugar beet,0.9762262402518187,Sugar beet,0.99941206
+e80a259c5.png,Small-flowered Cranesbill,0.80053675,Small-flowered Cranesbill,0.739356524245362,Small-flowered Cranesbill,0.95542985
+e82017baa.png,Loose Silky-bent,0.47814292,Loose Silky-bent,0.8433812326456858,Loose Silky-bent,0.9420223
+e84464f5a.png,Charlock,0.8231107,Charlock,0.8519258604190568,Charlock,0.9363576
+e88bf0db9.png,Common Chickweed,0.4993091,Small-flowered Cranesbill,0.7551841153994749,Small-flowered Cranesbill,0.81777185
+e901b0f28.png,Fat Hen,0.48681226,Fat Hen,0.9337917842242035,Fat Hen,0.9977463
+e921021a8.png,Fat Hen,0.7046647,Fat Hen,0.960742421098838,Fat Hen,0.99919957
+e96e57a90.png,Small-flowered Cranesbill,0.8500098,Small-flowered Cranesbill,0.64510745031723,Shepherds Purse,0.9710527
+e98e5d1d5.png,Sugar beet,0.32300082,Sugar beet,0.661186389758041,Fat Hen,0.84507436
+e9cd91682.png,Common Chickweed,0.99593985,Common Chickweed,0.9956320567154652,Common Chickweed,0.9996469
+e9d48d664.png,Small-flowered Cranesbill,0.8465447,Small-flowered Cranesbill,0.4792249580553666,Shepherds Purse,0.94453067
+eaf0815e2.png,Small-flowered Cranesbill,0.57235515,Small-flowered Cranesbill,0.9566155217445562,Small-flowered Cranesbill,0.9975694
+ec08a5d56.png,Small-flowered Cranesbill,0.65008634,Small-flowered Cranesbill,0.9587893116223211,Small-flowered Cranesbill,0.9850756
+ede6b84b4.png,Cleavers,0.8285335,Cleavers,0.9193074204375896,Cleavers,0.9972892
+edfdb4aeb.png,Common Chickweed,0.77894336,Scentless Mayweed,0.514184853058879,Scentless Mayweed,0.88631743
+eec1079a1.png,Charlock,0.8872316,Charlock,0.9718936356831741,Charlock,0.9987595
+eef131644.png,Loose Silky-bent,0.45349193,Loose Silky-bent,0.6888052110653922,Black-grass,0.7283902
+ef02b4ee7.png,Sugar beet,0.68671995,Sugar beet,0.8798585259144353,Sugar beet,0.9748862
+ef3e232ad.png,Common Chickweed,0.96673954,Common Chickweed,0.963382491586828,Common Chickweed,0.9986077
+ef65533d5.png,Black-grass,0.3224865,Loose Silky-bent,0.6848952937969681,Black-grass,0.5123725
+ef74dbcad.png,Scentless Mayweed,0.2547034,Scentless Mayweed,0.8608927245514597,Scentless Mayweed,0.9944338
+ef7a5651d.png,Common Chickweed,0.63516647,Scentless Mayweed,0.5382894737528957,Scentless Mayweed,0.90615994
+ef9676433.png,Charlock,0.88236403,Charlock,0.9458769824093747,Charlock,0.98909163
+efe19dc32.png,Charlock,0.88606375,Charlock,0.9773862293028167,Charlock,0.99746823
+f0ffa00bd.png,Sugar beet,0.6728356,Sugar beet,0.8529885862018523,Sugar beet,0.6828225
+f1e87cba7.png,Loose Silky-bent,0.65824187,Loose Silky-bent,0.9327977557574394,Loose Silky-bent,0.99938834
+f1f7c833f.png,Small-flowered Cranesbill,0.8499848,Shepherds Purse,0.6065741356395828,Shepherds Purse,0.77700233
+f23faf9c1.png,Loose Silky-bent,0.55683583,Loose Silky-bent,0.882957633928482,Loose Silky-bent,0.9982376
+f25996db8.png,Small-flowered Cranesbill,0.8083169,Small-flowered Cranesbill,0.9876541984763008,Small-flowered Cranesbill,0.9992105
+f2dc546ca.png,Charlock,0.6545289,Cleavers,0.8320864904698126,Cleavers,0.99141735
+f33e9d918.png,Fat Hen,0.20439523,Scentless Mayweed,0.481613746992238,Scentless Mayweed,0.9732397
+f351ce097.png,Loose Silky-bent,0.6592683,Loose Silky-bent,0.946450121029614,Loose Silky-bent,0.99931884
+f3fcfff1b.png,Charlock,0.8158409,Charlock,0.5728226138876931,Cleavers,0.7876933
+f4021df6c.png,Fat Hen,0.62589616,Fat Hen,0.9320947840907147,Fat Hen,0.9944401
+f4234cf4f.png,Fat Hen,0.44027936,Fat Hen,0.8015439698848353,Fat Hen,0.97716767
+f445fe6fb.png,Charlock,0.85654044,Charlock,0.9837417579022814,Charlock,0.9980567
+f48916a8c.png,Small-flowered Cranesbill,0.20756975,Scentless Mayweed,0.4037038482427558,Scentless Mayweed,0.5491471
+f4ad9d950.png,Sugar beet,0.48445526,Sugar beet,0.9041010641281273,Sugar beet,0.9899065
+f4caf74f9.png,Small-flowered Cranesbill,0.5903559,Charlock,0.9509123144510093,Charlock,0.9356952
+f4e7733d4.png,Small-flowered Cranesbill,0.87933064,Small-flowered Cranesbill,0.9374902739256761,Small-flowered Cranesbill,0.99599034
+f593c9cf0.png,Sugar beet,0.7219284,Sugar beet,0.948948613813219,Sugar beet,0.9953294
+f66ae4070.png,Maize,0.58855605,Maize,0.8839441582420053,Maize,0.9873953
+f6d250856.png,Small-flowered Cranesbill,0.7323473,Small-flowered Cranesbill,0.8042583525177494,Common Chickweed,0.56735533
+f8318faf1.png,Common Chickweed,0.84332967,Common Chickweed,0.7694771659701302,Common Chickweed,0.97447824
+f85ed9b6d.png,Cleavers,0.4808155,Cleavers,0.8896401654096854,Cleavers,0.99269545
+f9b6bfb00.png,Cleavers,0.89057475,Cleavers,0.9892433805277032,Cleavers,0.99931717
+f9ea23fb5.png,Fat Hen,0.47365263,Fat Hen,0.5925201505897126,Fat Hen,0.88008404
+f9f35cbd4.png,Common Chickweed,0.94628304,Common Chickweed,0.946065243620746,Common Chickweed,0.99847394
+fa5fd1384.png,Small-flowered Cranesbill,0.8593667,Shepherds Purse,0.6671104974036055,Shepherds Purse,0.98538893
+fa9f3a8f9.png,Cleavers,0.6810345,Cleavers,0.9611654104454216,Cleavers,0.99102753
+fadc6adbc.png,Charlock,0.90248936,Charlock,0.9419848042649934,Charlock,0.99212545
+fb022edf9.png,Fat Hen,0.6973197,Fat Hen,0.8460885923263594,Fat Hen,0.99529487
+fba8fc78a.png,Black-grass,0.5569003,Loose Silky-bent,0.7216798485077245,Black-grass,0.61363786
+fbf88b6be.png,Small-flowered Cranesbill,0.4762604,Charlock,0.5878681611137859,Charlock,0.97997004
+fc3e58836.png,Sugar beet,0.4089666,Sugar beet,0.6698734989864298,Sugar beet,0.6585129
+fc6f686fb.png,Fat Hen,0.3331949,Sugar beet,0.5568420166165644,Sugar beet,0.49568024
+fd253a74e.png,Cleavers,0.5477204,Cleavers,0.760219869200814,Cleavers,0.89636123
+fd87b36ae.png,Black-grass,0.4712456,Loose Silky-bent,0.5942384324260935,Black-grass,0.6463138
+fd925f542.png,Common Chickweed,0.97492355,Common Chickweed,0.9720514236069864,Common Chickweed,0.9983552
+fda0b5c38.png,Common wheat,0.94005275,Common wheat,0.8755205493940333,Common wheat,0.99385333
+fda39e16f.png,Loose Silky-bent,0.6484005,Loose Silky-bent,0.8533973311501816,Loose Silky-bent,0.8837864
+fdea6b119.png,Black-grass,0.65664285,Black-grass,0.8228842538905877,Black-grass,0.98640126
+fe29629fb.png,Black-grass,0.3086836,Scentless Mayweed,0.4960860318569133,Scentless Mayweed,0.8631251
+fe9e87b78.png,Small-flowered Cranesbill,0.42032233,Common Chickweed,0.31068854638566934,Scentless Mayweed,0.89780617
+fea1d13d6.png,Small-flowered Cranesbill,0.8652338,Shepherds Purse,0.6519674437765288,Shepherds Purse,0.8987762
+fea355851.png,Loose Silky-bent,0.6805324,Loose Silky-bent,0.9327819490388566,Loose Silky-bent,0.9990633
+fea3da57c.png,Sugar beet,0.8778988,Sugar beet,0.9922016040966134,Sugar beet,0.99952364
+fef2ade8c.png,Sugar beet,0.8138574,Sugar beet,0.9827605136199289,Sugar beet,0.9991085
+ff65bc002.png,Charlock,0.8520791,Charlock,0.9689402120994438,Charlock,0.9974445
+ffc6f8527.png,Common wheat,0.9864052,Common wheat,0.9543233515967421,Common wheat,0.99869823
